@@ -9,7 +9,7 @@
 title: James Colestock's Blog
 email: james@colestock.com
 description: > # this means to ignore newlines until "baseurl:"
-  The official blog of James Colestock
+  The Official Blog of James Colestock
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: JamesColestock
