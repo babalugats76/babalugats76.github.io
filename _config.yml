@@ -20,3 +20,8 @@ markdown: kramdown
 sass:
     sass_dir: assets/stylesheets
     style: compressed
+# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
+permalink: pretty
+
+# How many articles do you wish to appear on the front page:
+paginate: 3    
