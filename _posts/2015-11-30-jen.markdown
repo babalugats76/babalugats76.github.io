@@ -2,7 +2,7 @@
 layout: post
 title:  "Jen's First Blog Post"
 date:   2015-11-30 16:06:15 +0600
-categories: jekyll test
+categories: test
 ---
 This is the simplest blog post known to man...
 Check out [Her Website][esp1]
