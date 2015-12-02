@@ -3,3 +3,56 @@
 @charset "utf-8";
 @import "bootstrap";
 @import "bootswatch";
+
+$page-header-font-path: "https://fonts.googleapis.com/css?family=Neuton:400,700" !default;
+
+@import url($page-header-font-path);
+
+$page-header-font-family: "Neuton", serif;
+
+body {
+background-color: #ffffff;
+background-image: url(https://colestock.s3.amazonaws.com/images/dimension-1920x1080.png);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+#page-header {
+    position: relative;
+    padding: 15px 30px;
+    text-align: center;
+    color: rgba(255,255,255,.8);
+    background-color: #2c3e50;
+    background-position-y: 40%;
+    background-repeat: no-repeat, repeat;
+    background-position-x: 0%;
+    /*background-image: url('https://colestock.s3.amazonaws.com/images/polonez-pattern-300x300.png'); */
+    background-image: url(https://colestock.s3.amazonaws.com/images/114066570_8-s1-v1.png), url('https://colestock.s3.amazonaws.com/images/tissue-pattern-290x280.png');
+    margin-bottom: 40px;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    /* background: #18bc9c; */
+}
+
+#page-header {
+    h1,h2,h3,h4,h5,h6 {
+        font-family: $page-header-font-family;
+        color: white;
+   color: white;
+   text-shadow:
+       3px 3px 0 #222,
+     -1px -1px 0 #222,  
+      1px -1px 0 #222,
+      -1px 1px 0 #222,
+       1px 1px 0 #222;
+    }
+}
+
+@media (min-width: 768px) {
+    #page-header {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        text-align: center;
+        font-size: 24px;
+    }
+}

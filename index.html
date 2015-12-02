@@ -33,14 +33,14 @@ layout: default
 {% endfor %}
 
 <!-- Pager links -->
-<nav>
-  <ul class="pager">
+<nav class="text-center">
+  <ul class="pagination">
   {% if paginator.previous_page %}
-    <li class="previous"><a href="{{ paginator.previous_page_path }}"><span aria-hidden="true">&larr;</span> Previous</a></li>
+    <li><a href="{{ paginator.previous_page_path }}"><span aria-hidden="true">&larr;</span> Previous</a></li>
   {% endif %}
   
   {% if paginator.next_page %}
-    <li class="next"><a href="{{ paginator.next_page_path }}">Next <span aria-hidden="true">&rarr;</span></a></li>
+    <li><a href="{{ paginator.next_page_path }}">Next <span aria-hidden="true">&rarr;</span></a></li>
   {% endif %}
   </ul>
 </nav>
