@@ -15,8 +15,8 @@ sass:
     style: compressed
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
 permalink: pretty
-
 gems: [jekyll-paginate]
 paginate_path: "page:num"
 # How many articles do you wish to appear on the front page:
 paginate: 1    
+highlighter: pygments
