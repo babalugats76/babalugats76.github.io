@@ -2,7 +2,7 @@
 layout: post
 title:  "My First Jekyll Post"
 date:   2015-11-30 1:05:15 +0000
-categories: test
+tags: [test,second post]
 ---
 This is my first post, I really want to see how it will change the index page, which (right now) is driving me crazy!
 

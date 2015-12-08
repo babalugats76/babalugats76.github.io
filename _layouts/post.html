@@ -12,4 +12,9 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="post-footer">
+      {% if page.categories != null %}
+        <p>Categories: {% for cat in page.categories %}{{cat}}{% if forloop.last != true %}, {% endif %}{% endfor %}</p>
+      {% endif %}
+  </div>
 </article>

@@ -1,5 +1,6 @@
 # Site settings
 title: colestock.com
+name: James Colestock
 email: james@colestock.com
 description: > # this means to ignore newlines until "baseurl:"
   The Internet Home of James Colestock
@@ -7,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.colestock.com" # the base hostname & protocol for your site
 twitter_username: JamesColestock
 github_username: babalugats76
+googleplus_username: +JamesColestock
 
 # Build settings
 markdown: kramdown

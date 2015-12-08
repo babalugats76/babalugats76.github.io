@@ -13,8 +13,28 @@ $serif-font-path: "https://fonts.googleapis.com/css?family=Droid+Serif:400,700" 
 $page-header-font-family: "Neuton", serif;
 
 body {
-    background-color: #fff;
+    background-color: #f0f0f0;
     background-image: url(http://static.colestock.com/images/dimension-1920x1080.png);
+}
+
+#social {
+   float: left;
+   padding: 14px 30px;
+   font-size: 19px;
+   height: 60px;
+}
+
+#social a:not(:first-child) .icon {
+    margin-left: 14px;
+}
+
+#social a:hover {
+    text-decoration: none;
+}
+
+#social .icon > svg {
+    width: 32px;
+    height: 32px;
 }
 
 #page-header {
@@ -42,7 +62,7 @@ body {
 
 #page-container {
     background-color: #fff;
-    min-height: 200px;
+    min-height: 360px;
 }
 
 #page-content {
