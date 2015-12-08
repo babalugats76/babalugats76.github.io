@@ -31,9 +31,14 @@ layout: default
       <div class="content">
         {{ post.content }}
       </div>
+      {% if post.tags != null %}
+        <div class="post-footer">
+          <p class="post-tag"><span class="post-tag-label">Tags: </span>{% for tag in post.tags %}{{tag}}{% if forloop.last != true %}, {% endif %}{% endfor %}</p>
+        </div>
+      {% endif %}
     {% endfor %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe small">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
 

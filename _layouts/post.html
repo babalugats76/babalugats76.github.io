@@ -13,8 +13,8 @@ layout: default
   </div>
 
   <div class="post-footer">
-      {% if page.categories != null %}
-        <p>Categories: {% for cat in page.categories %}{{cat}}{% if forloop.last != true %}, {% endif %}{% endfor %}</p>
+      {% if page.tags != null %}
+        <p class="post-tag"><span class="post-tag-label">Tags: </span>{% for tag in page.tags %}{{tag}}{% if forloop.last != true %}, {% endif %}{% endfor %}</p>
       {% endif %}
   </div>
 </article>
