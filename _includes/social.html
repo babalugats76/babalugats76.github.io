@@ -9,6 +9,9 @@
     {% if site.twitter_username %}
         <a href="https://twitter.com/{{ site.twitter_username }}"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>        
     {% endif %}
+    {% if site.youtube_username %}
+        <a href="https://youtube.com/{{ site.youtube_username }}"><span class="icon icon--youtube">{% include icon-youtube.svg %}</span></a>
+    {% endif %}
     <a href="{{ site.baseurl }}/feed.xml"><span class="icon icon--rss">{% include icon-rss.svg %}</span></a>
     <a href="mailto:james@colestock.com"><span class="icon icon--email">{% include icon-email.svg %}</span></a>
 </span>

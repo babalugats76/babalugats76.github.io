@@ -14,24 +14,22 @@
     <div class="collapse navbar-collapse" id="toggle-content">
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About<span class="caret"></span></a>
           <ul class="dropdown-menu">
-              {% for my_page in site.pages %} {% if my_page.title %}
+              {% for my_page in site.pages %} {% if my_page.dropdown == 'about' %}
               <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li> {% endif %} {% endfor %}
           </ul>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Websites <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">My Websites<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="http://teach.colestock.com" title="James Colestock's Teacher Website">Teacher Website</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="http://code.colestock.com" title="Programming Class Website">Programming</a></li>
             <li><a href="http://gamedev.colestock.com" title="Game Development Class Website">Game Development</a></li>
             <li><a href="http://webdev.colestock.com" title="Web Development Class Website">Web Development</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="http://www.youtube.com" title="James Colestock's YouTube Channel">YouTube Channel</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="https://teach.quizdini.com/">Quizdini</a></li>
           </ul>
@@ -41,6 +39,6 @@
     <!-- /.navbar-collapse -->
 </nav>
 <header id="page-header" class="container">
-    <h1>{{ site.title | upcase }}</h1>
+    <h1>{{ site.domain | upcase }}</h1>
     <h4>{{ site.description }}</h4>
 </header>

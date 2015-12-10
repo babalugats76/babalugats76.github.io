@@ -62,7 +62,7 @@ body {
 
 #page-container {
     background-color: #fff;
-    min-height: 360px;
+    min-height: 480px;
 }
 
 #page-content {
@@ -71,7 +71,12 @@ body {
 
 #page-footer {
     background-color: #66819C;
-    padding: 15px 30px;
+    color: #fff;
+    padding: 45px 60px;
+}
+
+.no-top-margin {
+    margin-top: 0;
 }
 
 .post-meta > time, .date > time, .post-tag-label {
