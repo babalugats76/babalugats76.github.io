@@ -17,9 +17,13 @@ body {
     background-image: url(http://static.colestock.com/images/dimension-1920x1080.png);
 }
 
+.badge {
+    border: 1px solid #ddd;
+}
+
 #social {
    float: left;
-   padding: 14px 30px;
+   padding: 14px 12px;
    font-size: 19px;
    height: 60px;
 }
@@ -55,9 +59,19 @@ body {
 #page-header {
     h1,h2,h3,h4,h5,h6 {
         font-family: $page-header-font-family;
-        color: white;
+        color: #fff;
         text-shadow: 3px 3px 0 #222, -1px -1px 0 #222, 1px -1px 0 #222, -1px 1px 0 #222, 1px 1px 0 #222;
     }
+    
+    a:hover, a:active, a:visited, a:focus {
+        text-decoration: none;
+        color: #fff;
+    }
+    
+    -webkit-box-shadow: 0 8px 6px -6px #999 !important;
+       -moz-box-shadow: 0 8px 6px -6px #999 !important;
+            box-shadow: 0 8px 6px -6px #999 !important;
+    
 }
 
 #page-container {
@@ -65,18 +79,45 @@ body {
     min-height: 480px;
 }
 
-#page-content {
-    padding-bottom: 30px;
+#page-content, #blog-sidebar {
+    padding-bottom: 12px;
 }
 
 #page-footer {
     background-color: #66819C;
+    background-image: url('http://static.colestock.com/images/tissue-pattern-290x280.png');
+    background-repeat: repeat;
     color: #fff;
     padding: 45px 60px;
 }
 
+.panel-title {
+     a:hover, a:active, a:visited, a:focus {
+        text-decoration: none;
+    }
+}
+
+#recent-panel {
+    margin-top: 22px;
+}
+
+a[aria-expanded=true] .glyphicon-chevron-up {
+   display: none;
+}
+a[aria-expanded=false] .glyphicon-chevron-down {
+   display: none;
+}
+
 .no-top-margin {
     margin-top: 0;
+}
+
+.grow { 
+    transition: all .2s ease-in-out; 
+}
+
+.grow:hover { 
+    transform: scale(1.05); 
 }
 
 .post-meta > time, .date > time, .post-tag-label {
@@ -166,4 +207,9 @@ body {
         text-align: center;
         font-size: 24px;
     }
+    
+    #page-content, #blog-sidebar {
+        padding-bottom: 30px;
+    }
+    
 }

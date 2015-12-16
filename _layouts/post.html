@@ -16,7 +16,8 @@ layout: default
 
   <div class="post-footer">
       {% if page.tags != null %}
-        <p class="post-tag"><span class="post-tag-label">Tags: </span>{% for tag in page.tags %}{{tag}}{% if forloop.last != true %}, {% endif %}{% endfor %}</p>
+        <br>
+        <p class="post-tag small"><span class="post-tag-label">Tags: </span>{% for tag in page.tags %}<a href="{{tag | downcase | replace:" ","-" | prepend: '/tags/'}}">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}{% endfor %}</p>
       {% endif %}
   </div>
 </article>
