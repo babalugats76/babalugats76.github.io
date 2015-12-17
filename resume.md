@@ -8,13 +8,25 @@ permalink: /resume/
 <!-- start summary / credential row -->
 <div class="row">
   <!-- start left column -->
-  <div class="col-lg-7">
-    <h3 class="no-top-margin">Summary</h3>
+  <div class="col-md-7">
+    <h3 class="xs-mt-5 sm-mt-5 md-mt-5 lg-mt-5">Summary</h3>
     <p>I am an experienced IT professional that now focuses on education.  I spent over 15 years immersed in all things technology before deciding to set my sights on an even more daunting challenge: preparing the next generation of innovators and technologists.  I am passionate about imbuing others with the power to shape the world by teaching them lynchpin technical skills while affording them the opportunity to experience the creative process for themselves.</p>
+    <div id="career-panel" class="panel panel-info xs-mt-20 sm-mt-20 md-mt-20 lg-mt-20">
+      <div class="panel-heading">
+        <h3 class="panel-title">Career at a Glance</h3>
+      </div>
+      <div class="panel-body">
+        <ul class="list-group">
+          <li class="list-group-item small">Over 15 years experience as an <strong>Information Technology Professional</strong>, within nearly every major employment sector, solving mission-critical problems as Developer, Architect, and Database Administrator</li>
+          <li class="list-group-item small"><strong>Diverse experience in Education</strong>, including roles as CTE Educator, AVID Tutor, and Substitute</li>
+          <li class="list-group-item small"><strong>Passionate technologist</strong> with a proven track record of developing solutions that empower end users</li>
+        </ul>
+      </div>
+    </div>
   </div>
   <!-- end left column -->
-  <div class="col-lg-5">
-    <div class="panel panel-default">
+  <div class="col-md-5 xs-mt-20 sm-mt-20 md-mt-20 lg-mt-20">
+    <div id="credential-panel" class="panel panel-info">
       <div class="panel-heading">
         <h3 class="panel-title">Credentials</h3>
       </div>
@@ -28,7 +40,7 @@ permalink: /resume/
             <span class="list-group-item-text small">Business Education (7-12)</span>
           </li>
           <li class="list-group-item small">
-            <span class="badge">99308</span>
+            <span class="badge">170672</span>
             <h5 class="list-group-item-heading">Career & Technical Education (CTE)</h5>
             <span class="list-group-item-text small">CTE Business Pathway (7-12)</span><br>
             <span class="list-group-item-text small">CTE Information Technology (7-12)</span>
