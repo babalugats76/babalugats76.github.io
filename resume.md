@@ -26,6 +26,10 @@ permalink: /resume/
   </div>
   <!-- end left column -->
   <div class="col-md-5 xs-mt-20 sm-mt-20 md-mt-20 lg-mt-20">
+    <div id="resumedoc" class="xs-mb-20 sm-mb-20 md-mb-20 lg-mb-20">
+       <a href="http://static.colestock.com/James_Colestock_Resume.pdf" class="btn btn-sm btn-primary" title="Resume: James Colestock" download="James_Colestock_Resume.pdf">Resume [pdf]</a>
+       <a href="http://static.colestock.com/Putting_IT_Together.pdf" class="btn btn-sm btn-primary" title="Brochure: Putting IT Together" download="Putting_IT_Together.pdf">Brochure [pdf]</a>
+    </div>
     <div id="credential-panel" class="panel panel-info">
       <div class="panel-heading">
         <h3 class="panel-title">Credentials</h3>
