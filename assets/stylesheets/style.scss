@@ -35,7 +35,7 @@ hr {
 
 #social {
    float: left;
-   padding: 14px 12px;
+   padding: 14px 6px;
    font-size: 19px;
    height: 60px;
 }
@@ -237,4 +237,7 @@ a[aria-expanded=false] .glyphicon-chevron-down {
         padding-bottom: 30px;
     }
     
+    #social {
+        padding: 14px 12px;
+    }
 }
