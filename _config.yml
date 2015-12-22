@@ -3,7 +3,7 @@ name: James Colestock
 email: james@colestock.com
 description: The Internet Home of James Colestock
 baseurl: ""
-url: "http://blog.colestock.com"
+url: "http://www.colestock.com"
 markdown: kramdown
 sass:
     sass_dir: assets/stylesheets
