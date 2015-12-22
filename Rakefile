@@ -1,7 +1,7 @@
 desc "Serve jekyll blog"
 task :serve do
    puts "\n## Starting local server with --watch option"
-   status = system("jekyll s -H $IP -P $PORT --watch");
+   status = system("jekyll serve -H $IP -P $PORT --watch");
    puts status ? "Success" : "Failed"
 end
 
@@ -15,8 +15,8 @@ task :build do
   puts status ? "Success" : "Failed" 
 end  
 
-desc "Commit _site/"
-task :commit do
+desc "Deploy _site/"
+task :deploy do
   puts "\n## Staging modified files"
   status = system("git add -A")
   puts status ? "Success" : "Failed"
@@ -27,4 +27,8 @@ task :commit do
   puts "\n## Pushing commits to remote"
   status = system("git push -u origin master")
   puts status ? "Success" : "Failed"
+end
+
+desc "Build, deploy, serve"
+task :all => [:build, :deploy] do
 end
