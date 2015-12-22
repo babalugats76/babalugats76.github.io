@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="home">
-  
   <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
       <h1>{{ post.title }}</h1>
@@ -19,12 +18,7 @@ layout: default
           {% endif %}
         </div>
     {% endfor %}
-
-  <p class="rss-subscribe small">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
-
-<!-- Pager links -->
 <nav class="text-left">
   <ul class="pagination">
   {% if paginator.previous_page %}
