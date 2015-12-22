@@ -488,19 +488,10 @@ pre,
     background-color: #EAF2F5;
 }
 
-@media (min-width: $screen-sm-min) {
-    #page-header {
-        padding-top: 60px;
-        padding-bottom: 60px;
-        text-align: center;
-        font-size: 24px;
-    }
-    #page-content,
-    #blog-sidebar {
-        padding-bottom: 30px;
-    }
+
+@media (max-width: $screen-xs-max) {
     body {
-        font-size: 17px;
+        font-size: 15px;
     }
 }
 
@@ -519,6 +510,23 @@ pre,
        font-size: 1.8em;
     }
 }
+
+@media (min-width: $screen-sm-min) {
+    #page-header {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        text-align: center;
+        font-size: 24px;
+    }
+    #page-content,
+    #blog-sidebar {
+        padding-bottom: 30px;
+    }
+    body {
+        font-size: 17px;
+    }
+}
+
 
 @media (min-width: $screen-md-min) {
     body {
