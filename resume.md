@@ -9,7 +9,7 @@ permalink: /resume/
 <div class="row">
   <!-- start left column -->
   <div class="col-md-7">
-    <h3 class="xs-mt-5 sm-mt-5 md-mt-5 lg-mt-5">Summary</h3>
+    <h2 class="xs-mt-5 sm-mt-5 md-mt-5 lg-mt-5">Summary</h2>
     <p>I am an experienced IT professional that now focuses on education.  I spent over 15 years immersed in all things technology before deciding to set my sights on an even more daunting challenge: preparing the next generation of innovators and technologists.  I am passionate about imbuing others with the power to shape the world by teaching them lynchpin technical skills while affording them the opportunity to experience the creative process for themselves.</p>
     <div id="career-panel" class="panel panel-info xs-mt-20 sm-mt-20 md-mt-20 lg-mt-20">
       <div class="panel-heading">
@@ -38,14 +38,14 @@ permalink: /resume/
         <ul class="list-group">
           <li class="list-group-item small">
             <span class="badge">99306</span>
-            <h5 class="list-group-item-heading">Colorado Teaching License</h5>
+            <h3 class="list-group-item-heading">Colorado Teaching License</h3>
             <span class="list-group-item-text small">Social Studies Education (7-12)</span><br>
             <span class="list-group-item-text small">Instructional Technology Teacher (K-12)</span><br>
             <span class="list-group-item-text small">Business Education (7-12)</span>
           </li>
           <li class="list-group-item small">
             <span class="badge">170672</span>
-            <h5 class="list-group-item-heading">Career & Technical Education (CTE)</h5>
+            <h3 class="list-group-item-heading">Career & Technical Education (CTE)</h3>
             <span class="list-group-item-text small">CTE Business Pathway (7-12)</span><br>
             <span class="list-group-item-text small">CTE Information Technology (7-12)</span>
           </li>
