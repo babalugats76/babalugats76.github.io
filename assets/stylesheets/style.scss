@@ -35,9 +35,7 @@ hr {
 
 #social {
    float: left;
-   padding: 14px 3px;
-   font-size: 19px;
-   height: 60px;
+   padding: 12px 12px 0 12px;
 }
 
 #social a:not(:first-child) .icon {
@@ -82,7 +80,6 @@ hr {
     -webkit-box-shadow: 0 8px 6px -6px #999 !important;
        -moz-box-shadow: 0 8px 6px -6px #999 !important;
             box-shadow: 0 8px 6px -6px #999 !important;
-    
 }
 
 #page-container {
@@ -135,7 +132,6 @@ a[aria-expanded=false] .glyphicon-chevron-down {
 .no-top-margin {
     margin-top: 0;
 }
-
 
 .grow { 
     transition: all .2s ease-in-out; 
@@ -225,7 +221,15 @@ a[aria-expanded=false] .glyphicon-chevron-down {
 .highlight .il { color: #009999; }
 .highlight .gc { color: #999; background-color: #EAF2F5; } 
 
-@media (min-width: 768px) {
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1em; }
+h5 { font-size: .83em; }
+h6 { font-size: .67em; }
+
+
+@media (min-width: $screen-sm-min) {
     #page-header {
         padding-top: 60px;
         padding-bottom: 60px;
@@ -237,9 +241,31 @@ a[aria-expanded=false] .glyphicon-chevron-down {
         padding-bottom: 30px;
     }
     
+}
+
+@media (min-width: $screen-xs-min) {
     #social .icon>svg {
-        width: 32px;
-        height: 32px;
+        width: 36px;
+        height: 36px;
     }
-    
+}
+
+body { 
+    font-size: 14px;
+}
+
+@media (min-width: $screen-xs-min) {
+    body{font-size: 15px;}
+}
+
+@media (min-width: $screen-sm-min) {
+    body{font-size: 16px;}
+}
+
+@media (min-width: $screen-md-min) {
+    body{font-size: 17px;}
+}
+
+@media (min-width: $screen-lg-min) {
+    body{font-size: 18px;}
 }
