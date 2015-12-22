@@ -38,20 +38,20 @@ permalink: /resume/
         <ul class="list-group">
           <li class="list-group-item small">
             <span class="badge">99306</span>
-            <h3 class="list-group-item-heading">Colorado Teaching License</h3>
+            <h4 class="list-group-item-heading">Colorado Teaching License</h4>
             <span class="list-group-item-text small">Social Studies Education (7-12)</span><br>
             <span class="list-group-item-text small">Instructional Technology Teacher (K-12)</span><br>
             <span class="list-group-item-text small">Business Education (7-12)</span>
           </li>
           <li class="list-group-item small">
             <span class="badge">170672</span>
-            <h3 class="list-group-item-heading">Career & Technical Education (CTE)</h3>
+            <h4 class="list-group-item-heading">Career & Technical Education (CTE)</h4>
             <span class="list-group-item-text small">CTE Business Pathway (7-12)</span><br>
             <span class="list-group-item-text small">CTE Information Technology (7-12)</span>
           </li>
           <li class="list-group-item small">
             <span class="badge">87216</span>
-            <h3 class="list-group-item-heading">Colorado Substitute Authorization</h3>
+            <h4 class="list-group-item-heading">Colorado Substitute Authorization</h4>
             <span class="list-group-item-text small">Substitute (K-12)</span>
           </li>
         </ul>
