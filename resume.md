@@ -51,7 +51,7 @@ permalink: /resume/
           </li>
           <li class="list-group-item small">
             <span class="badge">87216</span>
-            <h5 class="list-group-item-heading">Colorado Substitute Authorization</h5>
+            <h3 class="list-group-item-heading">Colorado Substitute Authorization</h3>
             <span class="list-group-item-text small">Substitute (K-12)</span>
           </li>
         </ul>
