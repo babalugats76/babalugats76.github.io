@@ -4,6 +4,7 @@
 @import "bootstrap";
 @import "bootswatch";
 @import "space";
+@import "font-awesome";
 
 $page-header-font-path: "https://fonts.googleapis.com/css?family=Neuton:400,700" !default;
 $serif-font-path: "https://fonts.googleapis.com/css?family=PT+Serif" !default;
@@ -33,22 +34,43 @@ hr {
     margin-left: 5px;
 }
 
-#social {
-   float: left;
-   padding: 12px 12px 0 12px;
-}
-
-#social a:not(:first-child) .icon {
-    margin-left: 14px;
-}
 
 #social a:hover {
     text-decoration: none;
 }
 
-#social .icon > svg {
-    width: 24px;
-    height: 24px;
+#social .fa {
+    font-size: 1.9em; 
+    margin-left: .05em;
+}
+
+#social {
+    margin-top: .7em; 
+    text-align: center;
+}
+
+.fa-github-square {
+    color: #333;
+}
+
+.fa-youtube-square {
+    color: #cd201f;
+}
+
+.fa-google-plus-square {
+    color: #dc4e41;
+}
+
+.fa-twitter-square {
+    color: #55acee;
+}
+
+.fa-rss-square {
+    color: #FF6600;
+}
+
+.fa-envelope {
+    color: #ddd;
 }
 
 #page-header {
@@ -221,12 +243,12 @@ a[aria-expanded=false] .glyphicon-chevron-down {
 .highlight .il { color: #009999; }
 .highlight .gc { color: #999; background-color: #EAF2F5; } 
 
-h1 { font-size: 2em; }
-h2 { font-size: 1.5em; }
-h3 { font-size: 1.17em; }
-h4 { font-size: 1em; }
-h5 { font-size: .83em; }
-h6 { font-size: .67em; }
+h1 { font-size: 1.5em; }
+h2 { font-size: 1.17em; }
+h3 { font-size: 1em; }
+h4 { font-size: .83em; }
+h5 { font-size: .67em; }
+h6 { font-size: .5em; }
 
 
 @media (min-width: $screen-sm-min) {
@@ -241,31 +263,22 @@ h6 { font-size: .67em; }
         padding-bottom: 30px;
     }
     
-}
-
-@media (min-width: $screen-xs-min) {
-    #social .icon>svg {
-        width: 36px;
-        height: 36px;
+    body{
+        font-size: 17px;
     }
-}
-
-body { 
-    font-size: 14px;
+    
 }
 
 @media (min-width: $screen-xs-min) {
-    body{font-size: 15px;}
-}
-
-@media (min-width: $screen-sm-min) {
     body{font-size: 16px;}
+    #social .fa {font-size: 2.6em; margin-left: .1em;}
+    #social {margin-top: .4em; }
 }
 
 @media (min-width: $screen-md-min) {
-    body{font-size: 17px;}
+    body{font-size: 18px;}
 }
 
 @media (min-width: $screen-lg-min) {
-    body{font-size: 18px;}
+    body{font-size: 19px;}
 }
