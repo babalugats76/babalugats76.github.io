@@ -1,5 +1,8 @@
 desc "Serve jekyll blog"
 task :serve do
+   puts "\n## Building archives"
+   status = system("ruby archive/_generator.ruby")
+   puts status ? "Success" : "Failed"
    puts "\n## Starting local server with --watch option"
    status = system("jekyll serve -H $IP -P $PORT --watch");
    puts status ? "Success" : "Failed"
