@@ -20,3 +20,4 @@ github_username: babalugats76
 googleplus_username: +JamesColestock
 youtube_username: JamesColestock
 topnposts: 10
+include: ['.nojekyll', 'CNAME']
