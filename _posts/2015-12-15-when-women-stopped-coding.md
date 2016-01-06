@@ -4,9 +4,7 @@ title:  "When Women Stopped Coding"
 date:   2015-12-15 22:42:00 +0600
 tags: ["Women in Computer Science"]
 excerpt: NPR technology correspondents explain how female participation in Computer Science has dipped since the mid 1980s
-excerpt_separator: <!--more-->
 ---
-<!--more-->
 {% capture left-column %}
 NPR's technology correspondent, <strong>Steve Henn</strong>, recently published a podcast <sup><a href="#footnote-1" id="reference-1">1</a></sup> and follow-up article<sup><a href="#footnote-2" id="reference-2">2</a></sup> highlighting the causes for the precipitous drop in the number of women in Computer Science.
 

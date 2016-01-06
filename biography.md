@@ -3,6 +3,7 @@ layout: page
 title: Biography
 dropdown: about
 permalink: /bio/
+excerpt: James Colestock is an educator and Information Technology professional from Fort Wayne, IN now living in Wheat Ridge, CO
 ---
 <hr>
 <div class="row">

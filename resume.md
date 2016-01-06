@@ -3,6 +3,7 @@ layout: page
 title: Resume
 dropdown: about
 permalink: /resume/
+excerpt: James Colestock is a passionate educator and technologist with diverse experience and qualifications
 ---
 <hr>
 <!-- start summary / credential row -->
