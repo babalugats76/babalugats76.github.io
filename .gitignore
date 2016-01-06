@@ -1,3 +1,4 @@
-_posts
+_site
+_site_old
 .sass-cache
 .jekyll-metadata
