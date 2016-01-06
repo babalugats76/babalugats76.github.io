@@ -41,17 +41,17 @@ task :deploy do
   puts "\n## Committing master"
   puts "\n## Staging master (site) files"
   puts "Changing directory to _site"
-  system("cd ./_site/");
-  status = system("git add -A")
+  #system("cd ./_site/");
+  status = system("cd ./_site/; git add -A; git commit -m \"#{message}\"; git push -u origin master")
   puts status ? "Success" : "Failed"
-  message = "Committing master at #{Time.now.utc}"
-  status = system("git commit -m \"#{message}\"")
-  puts status ? "Success" : "Failed"
-  puts "\n## Pushing commits to source branch"
-  status = system("git push -u origin master")
-  puts status ? "Success" : "Failed"
-  puts "Changing directory back to ."
-  system("cd ..");
+  #message = "Committing master at #{Time.now.utc}"
+  #status = system("git commit -m \"#{message}\"")
+  #puts status ? "Success" : "Failed"
+  #puts "\n## Pushing commits to source branch"
+  #status = system("git push -u origin master")
+  #puts status ? "Success" : "Failed"
+  #puts "Changing directory back to ."
+  #system("cd ..");
 end
 
 desc "Build, deploy, serve"
