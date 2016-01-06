@@ -28,7 +28,6 @@ task :deploy do
   status = system("git add -A; git commit -m \"#{message}\"; git push -u origin source")
   puts status ? "Success" : "Failed"
   puts "\n## Checking in Master (site)"
-  puts "Changing directory to _site"
   status = system("cd ./_site/; git add -A; git commit -m \"#{message}\"; git push -u origin master")
   puts status ? "Success" : "Failed"
 end
