@@ -1,0 +1,5 @@
+<div class="row xs-mb-20 sm-mb-20 lg-mb-20">
+    <div class="col-md-7">{{ left-column | markdownify }}</div>
+    <div class="col-md-5 xs-mt-20 sm-mt-10 lg-mt-10 text-center">{{ right-column | markdownify }}</div>
+</div>
+{% if footnote %}{{ footnote | markdownify }}{% endif %}
