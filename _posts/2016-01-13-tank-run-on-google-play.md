@@ -9,6 +9,7 @@ I just released a new game, <strong>Tank Run</strong>, on <a href="https://play.
 
 Tank Run is a <strong>classically-inspired top down tank mini-game</strong> in which you race against time and battle pesky enemy tanks while trying to make it back to your post. 
 I use Tank Run as a model mini-game for teaching <strong>cross-platform Game Development with Construct 2</strong>.
+
 <br/>
 <div id="tank-run-carousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
