@@ -5,8 +5,8 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 09:19:48 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 09:19:48 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2016 09:23:18 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 09:23:18 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -26,15 +26,15 @@ I use Tank Run as a model mini-game for teaching &lt;strong&gt;cross-platform Ga
     &lt;!-- Wrapper for slides --&gt;
     &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
         &lt;div class=&quot;item active&quot;&gt;
-            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-1-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #1&quot; /&gt;
+            &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.colestock.games.tankrun&quot;&gt;&lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-1-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #1&quot; /&gt;&lt;/a&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;Beat the Clock&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;item&quot;&gt;
-            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-2-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #2&quot; /&gt;
+            &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.colestock.games.tankrun&quot;&gt;&lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-2-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #2&quot; /&gt;&lt;/a&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;Fight off Enemy Tanks&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;item&quot;&gt;
-            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-3-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #2&quot; /&gt;
+            &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.colestock.games.tankrun&quot;&gt;&lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-3-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #3&quot; /&gt;&lt;/a&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;Never Give Up!&lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
