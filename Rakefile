@@ -11,7 +11,7 @@ end
 desc "Build _site/"
 task :build do 
   puts "\n## Purging _site directory"
-  status = system("find ./_site/* -maxdepth 1 ! -name '.git' ! -name '.*' | xargs rm -rf")
+  status = system("find ./_site/* -maxdepth 1 ! -name 'archive' ! -name '.git' ! -name '.*' | xargs rm -rf")
   puts status ? "Success" : "Failed"
   puts "\n## Building the website underneath _site directory"
   status = system("jekyll build")

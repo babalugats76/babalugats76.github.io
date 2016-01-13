@@ -2,7 +2,7 @@
 layout: post
 title:  "When Women Stopped Coding"
 date:   2015-12-15 22:42:00 +0600
-tags: ["Women in Computer Science"]
+tags: ["Computer Science"]
 excerpt: NPR technology correspondents explain how female participation in Computer Science has dipped since the mid 1980s
 ---
 {% capture left-column %}
