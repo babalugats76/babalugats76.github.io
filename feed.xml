@@ -5,8 +5,8 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 09:09:27 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 09:09:27 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2016 09:10:23 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 09:10:23 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -14,8 +14,9 @@
         <description>&lt;p&gt;I just released a new game, &lt;strong&gt;Tank Run&lt;/strong&gt;, on &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.colestock.games.tankrun&quot;&gt;Google Play&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Tank Run is a &lt;strong&gt;classically-inspired top down tank mini-game&lt;/strong&gt; in which you race against time and battle pesky enemy tanks while trying to make it back to your post. 
-I use Tank Run as a model mini-game for teaching &lt;strong&gt;cross-platform Game Development with Construct 2&lt;/strong&gt;.
-&lt;br /&gt;&lt;/p&gt;
+I use Tank Run as a model mini-game for teaching &lt;strong&gt;cross-platform Game Development with Construct 2&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div id=&quot;tank-run-carousel&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
     &lt;!-- Indicators --&gt;
     &lt;ol class=&quot;carousel-indicators&quot;&gt;
