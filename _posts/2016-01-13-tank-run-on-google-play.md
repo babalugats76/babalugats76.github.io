@@ -20,15 +20,15 @@ I use Tank Run as a model mini-game for teaching <strong>cross-platform Game Dev
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <a href="https://play.google.com/store/apps/details?id=com.colestock.games.tankrun"><img class="responsive img-thumbnail" src="http://static.colestock.com/images/tank-run-screenshot-1-640x400.jpg" alt="Tank Run Screenshot #1"></a>
+            <img class="responsive img-thumbnail" src="http://static.colestock.com/images/tank-run-screenshot-1-640x400.jpg" alt="Tank Run Screenshot #1">
             <div class="carousel-caption">Beat the Clock</div>
         </div>
         <div class="item">
-            <a href="https://play.google.com/store/apps/details?id=com.colestock.games.tankrun"><img class="responsive img-thumbnail" src="http://static.colestock.com/images/tank-run-screenshot-2-640x400.jpg" alt="Tank Run Screenshot #2"></a>
+            <img class="responsive img-thumbnail" src="http://static.colestock.com/images/tank-run-screenshot-2-640x400.jpg" alt="Tank Run Screenshot #2">
             <div class="carousel-caption">Fight off Enemy Tanks</div>
         </div>
         <div class="item">
-            <a href="https://play.google.com/store/apps/details?id=com.colestock.games.tankrun"><img class="responsive img-thumbnail" src="http://static.colestock.com/images/tank-run-screenshot-3-640x400.jpg" alt="Tank Run Screenshot #3"></a>
+            <img class="responsive img-thumbnail" src="http://static.colestock.com/images/tank-run-screenshot-3-640x400.jpg" alt="Tank Run Screenshot #3">
             <div class="carousel-caption">Never Give Up!</div>
         </div>
     </div>
