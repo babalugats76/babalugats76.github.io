@@ -9,7 +9,7 @@ I just released a new game, <strong>Tank Run</strong>, on <a href="https://play.
 
 Tank Run is a <strong>classically-inspired top down tank mini-game</strong> in which you race against time and battle pesky enemy tanks while trying to make it back to your post. 
 I use Tank Run as a model mini-game for teaching <strong>cross-platform Game Development with Construct 2</strong>.
-
+<br>
 <div id="tank-run-carousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -42,5 +42,5 @@ I use Tank Run as a model mini-game for teaching <strong>cross-platform Game Dev
         <span class="sr-only">Next</span>
     </a>
 </div>
-
+<br>
 <a href="https://play.google.com/store/apps/details?id=com.colestock.games.tankrun&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img class="img-responsive" style="max-width: 200px" alt="Get it on Google Play" src="http://static.colestock.com/images/google-play-badge-866x283.png" /></a>
