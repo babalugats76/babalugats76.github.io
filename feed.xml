@@ -5,9 +5,60 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 07:35:32 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 07:35:32 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2016 09:09:27 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 09:09:27 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Tank Run on Google Play</title>
+        <description>&lt;p&gt;I just released a new game, &lt;strong&gt;Tank Run&lt;/strong&gt;, on &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.colestock.games.tankrun&quot;&gt;Google Play&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tank Run is a &lt;strong&gt;classically-inspired top down tank mini-game&lt;/strong&gt; in which you race against time and battle pesky enemy tanks while trying to make it back to your post. 
+I use Tank Run as a model mini-game for teaching &lt;strong&gt;cross-platform Game Development with Construct 2&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;tank-run-carousel&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+    &lt;!-- Indicators --&gt;
+    &lt;ol class=&quot;carousel-indicators&quot;&gt;
+        &lt;li data-target=&quot;#tank-run-carousel&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+        &lt;li data-target=&quot;#tank-run-carousel&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+        &lt;li data-target=&quot;#tank-run-carousel&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;!-- Wrapper for slides --&gt;
+    &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+        &lt;div class=&quot;item active&quot;&gt;
+            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-1-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #1&quot; /&gt;
+            &lt;div class=&quot;carousel-caption&quot;&gt;Tank Run Screenshot #1&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;item&quot;&gt;
+            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-2-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #2&quot; /&gt;
+            &lt;div class=&quot;carousel-caption&quot;&gt;Tank Run Screenshot #2&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;item&quot;&gt;
+            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-3-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #2&quot; /&gt;
+            &lt;div class=&quot;carousel-caption&quot;&gt;Tank Run Screenshot #3&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- Controls --&gt;
+    &lt;a class=&quot;left carousel-control&quot; href=&quot;#tank-run-carousel&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+        &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;a class=&quot;right carousel-control&quot; href=&quot;#tank-run-carousel&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+        &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.colestock.games.tankrun&amp;amp;utm_source=global_co&amp;amp;utm_medium=prtnr&amp;amp;utm_content=Mar2515&amp;amp;utm_campaign=PartBadge&amp;amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;max-width: 200px&quot; alt=&quot;Get it on Google Play&quot; src=&quot;http://static.colestock.com/images/google-play-badge-866x283.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2016 17:21:00 +0000</pubDate>
+        <link>http://www.colestock.com/2016/01/12/tank-run-on-google-play/</link>
+        <guid isPermaLink="true">http://www.colestock.com/2016/01/12/tank-run-on-google-play/</guid>
+        
+        <category>Game Design</category>
+        
+        
+      </item>
     
       <item>
         <title>The Best Christmas Song</title>
@@ -19,8 +70,6 @@
         <pubDate>Tue, 22 Dec 2015 11:35:00 +0000</pubDate>
         <link>http://www.colestock.com/2015/12/22/the-best-christmas-song/</link>
         <guid isPermaLink="true">http://www.colestock.com/2015/12/22/the-best-christmas-song/</guid>
-        
-        <category>Jon Lajoie</category>
         
         <category>Funny Videos</category>
         
@@ -51,7 +100,7 @@
         <link>http://www.colestock.com/2015/12/15/when-women-stopped-coding/</link>
         <guid isPermaLink="true">http://www.colestock.com/2015/12/15/when-women-stopped-coding/</guid>
         
-        <category>Women in Computer Science</category>
+        <category>Computer Science</category>
         
         
       </item>
@@ -67,9 +116,7 @@
         <link>http://www.colestock.com/2015/12/09/computer-science-at-colorado-school-of-mines/</link>
         <guid isPermaLink="true">http://www.colestock.com/2015/12/09/computer-science-at-colorado-school-of-mines/</guid>
         
-        <category>School of Mines</category>
-        
-        <category>Why Computer Science</category>
+        <category>Computer Science</category>
         
         
       </item>
