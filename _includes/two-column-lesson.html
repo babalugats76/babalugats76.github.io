@@ -1,0 +1,19 @@
+<div class="row xs-mb-20 sm-mb-20 lg-mb-20">
+    <div class="col-md-8">
+        <h2 class="xs-mt-0">Summary</h2>
+        {% if summary %}
+            {{ summary | markdownify }}
+        {% endif %}
+        {% if presentation %}
+        <div class="xs-mt-10 embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://docs.google.com/presentation/d/{{presentation}}/embed?start=false&loop=false&delayms=30000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
+        </div>
+        {% endif %}
+        {% if left-column %}{{ left-column | markdownify}}{% endif %}
+    </div>
+    <div class="col-md-4 xs-mt-20 sm-mt-10 lg-mt-10">
+        {% if right-column %}{{ right-column | markdownify}}{% endif %}
+    </div>
+     
+</div>
+{% if footnote %}{{ footnote | markdownify }}{% endif %}
