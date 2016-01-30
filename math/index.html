@@ -101,24 +101,61 @@
 <script type="text/javascript" async="" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML&amp;displayAlign=left">
 </script>
 
+<h2 id="statistics">Statistics</h2>
+
+<hr />
+
+<h3 id="mean">Mean</h3>
+<p>The <strong>mean</strong> (or arithmetic mean) is what most of us think of as the <strong>average</strong>, i.e., add up all the numbers and divide by the number of numbers</p>
+
+<h3 id="mode">Mode</h3>
+<p>The <strong>mode</strong> is the number that occurs the most frequently</p>
+
+<h3 id="median">Median</h3>
+<p>The <strong>median</strong> is the “middle” number, i.e., if you were to order the numbers and take the middle one.  In the event that there are an even number of numbers, then you take the middle two numbers and compute the average (traditional mean) for those.</p>
+
+<h3 id="range">Range</h3>
+<p>The <strong>range</strong> is the difference between the highest and lowest numbers</p>
+
+<h3 id="standard-deviation">Standard Deviation</h3>
+<p>The <strong>standard deviation</strong> is the measure of how “spread out” numbers are.
+Determining the standard deviation for a population can be done following this sequence of steps:</p>
+
+<ul>
+  <li><strong>Step 1</strong>: Work out the mean (average)</li>
+  <li><strong>Step 2</strong>: For each number, subtract the mean and square the resulting differences</li>
+  <li><strong>Step 3</strong>: Determine the mean of the above (a.k.a. <strong>the variance</strong>), i.e., sum the squared differences (from Step 2) and divide by how many there are</li>
+  <li><strong>Step 4</strong>: Take the square root of Step 3</li>
+</ul>
+
+<h3 id="variance">Variance</h3>
+<p>The <strong>variance</strong> is the average of the squared differences from the mean.  It is what you have after Step 3 of the above is completed.  After all, <strong>the standard deviation is simply the square root of the variance</strong>.</p>
+
+<h3 id="sample-populations">Sample Populations</h3>
+<p>When dealing with <strong>sample populations</strong> in which all data could not be gathered or considered, you need to calculate the variance differently: instead of summing the squared differences and then dividing by the number of numbers, $n$, divide by $n-1$.  This should always be done when dealing with so-called <strong>sample data</strong>.</p>
+
+<h3 id="permutations">Permutations</h3>
+<p>A <strong>permuation</strong> is an ordered combination.  There are two basic kinds of permutations: those that allow repetition and those that do not.</p>
+
+<p>If a permutation allows for repetition, then calculating the number of possible outcomes is as simple as $n^r$ in which $n$ is the number of choices and $r$ is the number of items we are picking; this formula is for when repetition is permitted and order matters.</p>
+
+<p>If a permutation <strong>does not allow</strong> for repetition, then $\frac{!n}{(n-r)!}$ in which $n$ is the number of choices and $r$ is the number of items we are picking; this formula is for when repetition is not allowed and order matters.</p>
+
 <h2 id="geometry">Geometry</h2>
 
 <hr />
 
+<h3 id="equation-of-circles">Equation of Circles</h3>
+<p>Equations of circles are normally expressed in either:</p>
+
 <ul>
   <li>
-    <h3 id="equation-of-circles">Equation of Circles</h3>
-    <p>Equations of circles are normally expressed in either</p>
-    <ul>
-      <li>
-        <h4 id="standard-form">Standard Form</h4>
-        <p>The equation of a circle in <strong>standard form</strong> is $(x-h)^2+(y-k)^2 = r^2$ where the circle’s center is at point $(h,k)$ with a radius of $r$.</p>
-      </li>
-      <li>
-        <h4 id="general-form">General Form</h4>
-        <p>The equation of a circle in <strong>general form</strong> is $x^2+y^2+Dx+Ey+F=0$ and will require that you <strong>complete the square</strong> in order to convert the equation to the much easier to understand standard form.</p>
-      </li>
-    </ul>
+    <h4 id="standard-form">Standard Form</h4>
+    <p>The equation of a circle in <strong>standard form</strong> is $(x-h)^2+(y-k)^2 = r^2$ where the circle’s center is at point $(h,k)$ with a radius of $r$.</p>
+  </li>
+  <li>
+    <h4 id="general-form">General Form</h4>
+    <p>The equation of a circle in <strong>general form</strong> is $x^2+y^2+Dx+Ey+F=0$ and will require that you <strong>complete the square</strong> in order to convert the equation to the much easier to understand standard form.</p>
   </li>
 </ul>
 
@@ -126,46 +163,40 @@
 
 <hr />
 
+<h3 id="triangles">30-60-90 Triangles</h3>
+<p><strong>30-60-90 triangles</strong> are a special variant of right triangle.  Sides of 30-60-90 triangles are referred to using the following shorthand: <strong>SL</strong> (across from $30\unicode{xb0}$) is the “short leg”, <strong>LL</strong> (across from $60\unicode{xb0}$) is the “long leg”, and <strong>H</strong> refers to the hypotenuse (across from $90\unicode{xb0}$).</p>
+
 <ul>
   <li>
-    <h3 id="triangles">30-60-90 Triangles</h3>
-    <p><strong>30-60-90 triangles</strong> are a special variant of right triangle.  Sides of 30-60-90 triangles are referred to using the following shorthand: <strong>SL</strong> (across from $30\unicode{xb0}$) is the “short leg”, <strong>LL</strong> (across from $60\unicode{xb0}$) is the “long leg”, and <strong>H</strong> refers to the hypotenuse (across from $90\unicode{xb0}$).</p>
-
-    <ul>
-      <li>
-        <h4 id="side-ratios">Side Ratios</h4>
-        <p>$1:\sqrt 3:2$, which corresponds to $SL:LL:H$</p>
-      </li>
-      <li>
-        <h4 id="side-formulas">Side Formulas</h4>
-        <p>The above ratios, yield the following shortcut formulas for determining the side lengths:</p>
-        <ul>
-          <li>
-            <script type="math/tex; mode=display">SL = \frac{1}{2}H</script>
-          </li>
-          <li>$LL = \frac{1}{2}H \sqrt 3$ or simply $SL\sqrt 3$</li>
-        </ul>
-      </li>
-    </ul>
+    <h4 id="side-ratios">Side Ratios</h4>
+    <p>$1:\sqrt 3:2$, which corresponds to $SL:LL:H$</p>
   </li>
   <li>
-    <h3 id="law-of-sines">Law of Sines</h3>
-    <p>The <strong>Law of Sines</strong> is an equation relating the lengths of the sides of any shaped triangle to the sines of its angles.  The law is normally stated using the reciprocals: $\frac{\sin(\angle{A})}{a} = \frac{\sin(\angle{B})}{b} = \frac{\sin(\angle{C})}{c}$. It can be used to compute the remaining sides of a triangle when two angles and a side are known; it can also be used when two sides and one of the non-enclosed angles are known.</p>
-  </li>
-  <li>
-    <h3 id="law-of-cosines">Law of Cosines</h3>
-    <p>The <strong>Law of Cosines</strong> is a generalization of the right triangle-specific <strong>Pythagorean Theorem</strong>.  The Law of Cosines is useful in finding a missing angle measure, given all the sides of a triangle, or in finding a missing side length, provided you know measure of the angle opposite the missing side as well as the length of the other two sides.  Simply put, the <strong>Law of Cosines</strong> extends the usefulness of the <strong>Pythagorean Theorem</strong>.</p>
-
+    <h4 id="side-formulas">Side Formulas</h4>
+    <p>The above ratios, yield the following shortcut formulas for determining the side lengths:</p>
     <ul>
       <li>
-        <h4 id="find-a-missing-side">Find a missing side</h4>
-        <p>$c^2= a^2+b^2-2ab\cos(\angle{C})$, if you were missing the side $c$, but knew the angle measure of $\angle{C}$.</p>
+        <script type="math/tex; mode=display">SL = \frac{1}{2}H</script>
       </li>
-      <li>
-        <h4 id="find-a-missing-angle">Find a missing angle</h4>
-        <p>$\cos(\angle{C}) = \frac{a^2+b^2-c^2}{2ab}$, this assumes that you know the lengths of all the sides and are looking for the measure of the angle opposite of side $c$.  <em>Note:</em> Converting the result to degress will require use of the inverse $cos$ function: $arccos$.</p>
-      </li>
+      <li><script type="math/tex">LL = \frac{1}{2}H \sqrt 3</script> or simply <script type="math/tex">SL\sqrt 3</script></li>
     </ul>
+  </li>
+</ul>
+
+<h3 id="law-of-sines">Law of Sines</h3>
+<p>The <strong>Law of Sines</strong> is an equation relating the lengths of the sides of any shaped triangle to the sines of its angles.  The law is normally stated using the reciprocals: $\frac{\sin(\angle{A})}{a} = \frac{\sin(\angle{B})}{b} = \frac{\sin(\angle{C})}{c}$. It can be used to compute the remaining sides of a triangle when two angles and a side are known; it can also be used when two sides and one of the non-enclosed angles are known.</p>
+
+<h3 id="law-of-cosines">Law of Cosines</h3>
+<p>The <strong>Law of Cosines</strong> is a generalization of the right triangle-specific <strong>Pythagorean Theorem</strong>.  The Law of Cosines is useful in finding a missing angle measure, given all the sides of a triangle, or in finding a missing side length, provided you know measure of the angle opposite the missing side as well as the length of the other two sides.  Simply put, the <strong>Law of Cosines</strong> extends the usefulness of the <strong>Pythagorean Theorem</strong>.</p>
+
+<ul>
+  <li>
+    <h4 id="find-a-missing-side">Find a missing side</h4>
+    <p>$c^2= a^2+b^2-2ab\cos(\angle{C})$, if you were missing the side $c$, but knew the angle measure of $\angle{C}$.</p>
+  </li>
+  <li>
+    <h4 id="find-a-missing-angle">Find a missing angle</h4>
+    <p>$\cos(\angle{C}) = \frac{a^2+b^2-c^2}{2ab}$, this assumes that you know the lengths of all the sides and are looking for the measure of the angle opposite of side $c$.  <em>Note:</em> Converting the result to degress will require use of the inverse $cos$ function: $arccos$.</p>
   </li>
 </ul>
 
@@ -173,21 +204,15 @@
 
 <hr />
 
-<ul>
-  <li>
-    <h3 id="geometric-series-finite-sum">Geometric Series (Finite Sum)</h3>
-    <p>$S_n = \frac{a_1(1-r^n)}{1-r}, r \neq 1$  where $n$ is the number of terms, $a_1$ is the first term and $r$ is the <strong>common ratio</strong>.<br />
+<h3 id="geometric-series-finite-sum">Geometric Series (Finite Sum)</h3>
+<p>$S_n = \frac{a_1(1-r^n)}{1-r}, r \neq 1$  where $n$ is the number of terms, $a_1$ is the first term and $r$ is the <strong>common ratio</strong>.<br />
 For geometric sequences, the <strong>common ratio</strong> is the constant multiplier used to derive each successive number.</p>
-  </li>
-  <li>
-    <h3 id="arithmetic-series-finite-sum">Arithmetic Series (Finite Sum)</h3>
-    <p>$S_n = \frac{n(a_1 + a_n)}{2}$  where $n$ is the number of terms, $a_1$ is the first term, and $a_n$ is the last term.</p>
-  </li>
-  <li>
-    <h3 id="arithmetic-sequence-find-any-term">Arithmetic Sequence (Find any Term)</h3>
-    <p>$a_n = a_1 + (n-1)d$  where $n$ is the number of the term you are trying to find, $a_n$ is its value, $a_1$ is the first term (of the sequence), and $d$ is the <strong>common difference</strong>, i.e., the constant difference between each successive term.</p>
-  </li>
-</ul>
+
+<h3 id="arithmetic-series-finite-sum">Arithmetic Series (Finite Sum)</h3>
+<p>$S_n = \frac{n(a_1 + a_n)}{2}$  where $n$ is the number of terms, $a_1$ is the first term, and $a_n$ is the last term.</p>
+
+<h3 id="arithmetic-sequence-find-any-term">Arithmetic Sequence (Find any Term)</h3>
+<p>$a_n = a_1 + (n-1)d$  where $n$ is the number of the term you are trying to find, $a_n$ is its value, $a_1$ is the first term (of the sequence), and $d$ is the <strong>common difference</strong>, i.e., the constant difference between each successive term.</p>
 </div>
 </article>
 </div>
