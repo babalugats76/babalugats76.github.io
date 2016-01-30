@@ -16,12 +16,51 @@ excerpt: Math cheatsheet for all the math-related rules and formulas I can't see
 <script type="text/javascript" async
   src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML&displayAlign=left">
 </script>
+## Statistics
+
+* * *
+
+### Mean
+The **mean** (or arithmetic mean) is what most of us think of as the **average**, i.e., add up all the numbers and divide by the number of numbers
+  
+### Mode
+The **mode** is the number that occurs the most frequently
+   
+### Median
+The **median** is the "middle" number, i.e., if you were to order the numbers and take the middle one.  In the event that there are an even number of numbers, then you take the middle two numbers and compute the average (traditional mean) for those.
+
+### Range
+The **range** is the difference between the highest and lowest numbers
+
+### Standard Deviation
+The **standard deviation** is the measure of how "spread out" numbers are.
+Determining the standard deviation for a population can be done following this sequence of steps:
+    
+  * **Step 1**: Work out the mean (average)
+  * **Step 2**: For each number, subtract the mean and square the resulting differences
+  * **Step 3**: Determine the mean of the above (a.k.a. **the variance**), i.e., sum the squared differences (from Step 2) and divide by how many there are
+  * **Step 4**: Take the square root of Step 3
+ 
+### Variance
+The **variance** is the average of the squared differences from the mean.  It is what you have after Step 3 of the above is completed.  After all, **the standard deviation is simply the square root of the variance**.
+
+### Sample Populations
+When dealing with **sample populations** in which all data could not be gathered or considered, you need to calculate the variance differently: instead of summing the squared differences and then dividing by the number of numbers, $n$, divide by $n-1$.  This should always be done when dealing with so-called **sample data**.
+    
+### Permutations
+A **permuation** is an ordered combination.  There are two basic kinds of permutations: those that allow repetition and those that do not.  
+
+If a permutation allows for repetition, then calculating the number of possible outcomes is as simple as $n^r$ in which $n$ is the number of choices and $r$ is the number of items we are picking; this formula is for when repetition is permitted and order matters.
+
+If a permutation **does not allow** for repetition, then $\frac{!n}{(n-r)!}$ in which $n$ is the number of choices and $r$ is the number of items we are picking; this formula is for when repetition is not allowed and order matters.
+
 ## Geometry
 
 * * *
 
-* ### Equation of Circles
-Equations of circles are normally expressed in either
+### Equation of Circles
+Equations of circles are normally expressed in either:
+
   * #### Standard Form 
   The equation of a circle in **standard form** is $(x-h)^2+(y-k)^2 = r^2$ where the circle's center is at point $(h,k)$ with a radius of $r$.
   
@@ -32,7 +71,7 @@ Equations of circles are normally expressed in either
 
 * * *
 
-* ### 30-60-90 Triangles
+### 30-60-90 Triangles
 **30-60-90 triangles** are a special variant of right triangle.  Sides of 30-60-90 triangles are referred to using the following shorthand: **SL** (across from $30\unicode{xb0}$) is the "short leg", **LL** (across from $60\unicode{xb0}$) is the "long leg", and **H** refers to the hypotenuse (across from $90\unicode{xb0}$).
 
   * #### Side Ratios
@@ -41,12 +80,12 @@ Equations of circles are normally expressed in either
   * #### Side Formulas
   The above ratios, yield the following shortcut formulas for determining the side lengths:
     * $$SL = \frac{1}{2}H$$
-    * $LL = \frac{1}{2}H \sqrt 3$ or simply $SL\sqrt 3$
+    * $$LL = \frac{1}{2}H \sqrt 3$$ or simply $$SL\sqrt 3$$
 
-* ### Law of Sines
+### Law of Sines
 The **Law of Sines** is an equation relating the lengths of the sides of any shaped triangle to the sines of its angles.  The law is normally stated using the reciprocals: $\frac{\sin(\angle{A})}{a} = \frac{\sin(\angle{B})}{b} = \frac{\sin(\angle{C})}{c}$. It can be used to compute the remaining sides of a triangle when two angles and a side are known; it can also be used when two sides and one of the non-enclosed angles are known.
 
-* ### Law of Cosines
+### Law of Cosines
 The **Law of Cosines** is a generalization of the right triangle-specific **Pythagorean Theorem**.  The Law of Cosines is useful in finding a missing angle measure, given all the sides of a triangle, or in finding a missing side length, provided you know measure of the angle opposite the missing side as well as the length of the other two sides.  Simply put, the **Law of Cosines** extends the usefulness of the **Pythagorean Theorem**.
 
   * #### Find a missing side
@@ -59,12 +98,12 @@ The **Law of Cosines** is a generalization of the right triangle-specific **Pyth
 
 * * *
 
-* ### Geometric Series (Finite Sum)
+### Geometric Series (Finite Sum)
 $S_n = \frac{a_1(1-r^n)}{1-r}, r \neq 1$  where $n$ is the number of terms, $a_1$ is the first term and $r$ is the **common ratio**.  
 For geometric sequences, the **common ratio** is the constant multiplier used to derive each successive number.
 
-* ### Arithmetic Series (Finite Sum)
+### Arithmetic Series (Finite Sum)
 $S_n = \frac{n(a_1 + a_n)}{2}$  where $n$ is the number of terms, $a_1$ is the first term, and $a_n$ is the last term.
 
-* ### Arithmetic Sequence (Find any Term)
+### Arithmetic Sequence (Find any Term)
 $a_n = a_1 + (n-1)d$  where $n$ is the number of the term you are trying to find, $a_n$ is its value, $a_1$ is the first term (of the sequence), and $d$ is the **common difference**, i.e., the constant difference between each successive term.
