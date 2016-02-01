@@ -101,7 +101,7 @@
 <script type="text/javascript" async="" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML&amp;displayAlign=left">
 </script>
 
-<h2 id="statistics">Statistics</h2>
+<h2 id="statistics">STATISTICS</h2>
 
 <hr />
 
@@ -134,14 +134,45 @@ Determining the standard deviation for a population can be done following this s
 <h3 id="sample-populations">Sample Populations</h3>
 <p>When dealing with <strong>sample populations</strong> in which all data could not be gathered or considered, you need to calculate the variance differently: instead of summing the squared differences and then dividing by the number of numbers, $n$, divide by $n-1$.  This should always be done when dealing with so-called <strong>sample data</strong>.</p>
 
+<h3 id="combinations">Combinations</h3>
+<p><strong>Combinations</strong> refer to groupings in which <strong>order is not important</strong>.  Determining the number of possibilities in a combination that is unordered is similar to what we do with permutations, but you have to reduce the number of possiblities that are introduced by requiring order.</p>
+
+<ul>
+  <li>
+    <p>A combination that <strong>allows for repetition</strong> is calculated using <strong>$\frac{(n+r-1)!}{(n-r)!} * \frac{1}{r!}$</strong> or simply <strong>$\frac{(n+r-1)!}{r!(n-r)!}$</strong> where $n$ is the number of choices and $r$ is the number we are picking.</p>
+  </li>
+  <li>
+    <p>A combination that <strong>does not allow for repetition</strong> is calculated using <strong>$\frac{n!}{(n-r)!} * \frac{1}{r!}$</strong> where $n$ is the number of choices and $r$ is the number of them that we are picking.
+Essentially, it is a permutation in which we subtract the number of possibilities added by requiring order.  The formula is often simplied to <strong>$\frac{n!}{r!(n-r)!} = \binom{n}{r}$</strong> and is often said as “n choose r” (a.k.a. The Binomial Coefficient).</p>
+  </li>
+</ul>
+
 <h3 id="permutations">Permutations</h3>
-<p>A <strong>permuation</strong> is an ordered combination.  There are two basic kinds of permutations: those that allow repetition and those that do not.</p>
+<p>A <strong>permuation</strong> is an <strong>ordered</strong> combination.  There are two basic kinds of permutations: those that allow repetition and those that do not.</p>
 
-<p>If a permutation allows for repetition, then calculating the number of possible outcomes is as simple as $n^r$ in which $n$ is the number of choices and $r$ is the number of items we are picking; this formula is for when repetition is permitted and order matters.</p>
+<ul>
+  <li>
+    <p>If a permutation allows for repetition, then calculating the number of possible outcomes is as simple as <strong>$n^r$</strong> in which $n$ is the number of choices and $r$ is the number of items we are picking; this formula is for when repetition is permitted and order matters.</p>
+  </li>
+  <li>
+    <p>If a permutation <strong>does not allow</strong> for repetition, then <strong>$\frac{!n}{(n-r)!}$</strong> in which $n$ is the number of choices and $r$ is the number of items we are picking; this formula is for when repetition is not allowed and order matters.</p>
+  </li>
+</ul>
 
-<p>If a permutation <strong>does not allow</strong> for repetition, then $\frac{!n}{(n-r)!}$ in which $n$ is the number of choices and $r$ is the number of items we are picking; this formula is for when repetition is not allowed and order matters.</p>
+<h3 id="z-score">Z-Score</h3>
+<p>A <strong>z-score</strong> (a.k.a. a standard score) indicates how many standard deviations an element is from the mean.</p>
 
-<h2 id="geometry">Geometry</h2>
+<h3 id="the-empirical-rule">The Empirical Rule</h3>
+<p><strong>The empirical rule</strong> is a rough gauge of normality.  It is also known as the <strong>three-sigma rule</strong> or the 68-95-99.7 rule. It provides a <strong>quick estimate of the spread of data in a normal distribution given the mean and standard deviation</strong>. 
+When a number of data points fall outside the three standard deviation range, it can indicate a non-normal distribution.</p>
+
+<ul>
+  <li>68% of the data will fall within one standard deviation of the mean</li>
+  <li>95% of the data will fall within two standard deviations of the mean</li>
+  <li>Almost all (99.7%) of the data will fall within three standard deviations of the mean</li>
+</ul>
+
+<h2 id="geometry">GEOMETRY</h2>
 
 <hr />
 
@@ -159,7 +190,7 @@ Determining the standard deviation for a population can be done following this s
   </li>
 </ul>
 
-<h2 id="trigonometry">Trigonometry</h2>
+<h2 id="trigonometry">TRIGONOMETRY</h2>
 
 <hr />
 
@@ -200,7 +231,7 @@ Determining the standard deviation for a population can be done following this s
   </li>
 </ul>
 
-<h2 id="algebra-ii">Algebra II</h2>
+<h2 id="algebra-ii">ALGEBRA II</h2>
 
 <hr />
 
