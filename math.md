@@ -16,6 +16,19 @@ excerpt: Math cheatsheet for all the math-related rules and formulas I can't see
 <script type="text/javascript" async
   src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML&displayAlign=left">
 </script>
+## SET THEORY
+**Set theory** is the branch of mathematics that studies collections of objects, i.e. sets.  Set theory can be applied to areas far beyond mathematics and has a lot of related terminology shared across many disciplines.
+
+### Intersection
+An **intersection** can be thought of as an **AND** condition to describe objects that exist in one set AND the other, i.e., both.
+
+Of the sets $A$ and $B$, denoted $A \bigcap B$, is the set of all objects that are members of both $A$ and $B$. The intersection of $\\{1, 2, 3\\}$ and $\\{2, 3, 4\\}$ is the set $\\{2, 3\\}$.
+
+### Union
+A **union** can be thought of as an **OR** condition to describe objects that exist in one OR more sets.
+
+Of the sets $A$ and $B$, denoted $A \bigcup B$, is the set of all objects that are a member of $A$, or $B$, or both. The union of $\\{1, 2, 3\\}$ and $\\{2, 3, 4\\}$ is the set $\\{1, 2, 3, 4\\}$.
+
 ## STATISTICS
 
 * * *
@@ -71,7 +84,22 @@ When a number of data points fall outside the three standard deviation range, it
 
  * 68% of the data will fall within one standard deviation of the mean
  * 95% of the data will fall within two standard deviations of the mean
- * Almost all (99.7%) of the data will fall within three standard deviations of the mean
+ * Almost all (99.7%) of the data will fall within three standard deviations of the means
+
+### Probabality 
+**Probablity** is best described as the likelihood of something (or multiple things) happening.  
+
+In terms of a formula, it can be thought of as $\text{Probability} = \frac{\text{Favorable  Outcomes}}{\text{Total  Outcomes}}$
+
+### Addition Rule of Probabality
+The **addition rule of probability** allows us to compute the likelihood that one or another event will occur.
+
+In terms of a formula, it can be expressed as $P(\text{A or B}) = P(A) + P(B) - P(A \bigcap B)$.  In other words, you add the probability of each event, $A$ and $B$, occurring on its own and then you subtract when they occur at the same time, i.e., the intersection; this effectively gets rid of the duplicates.
+
+### Expected Value
+**Expected value** is a basic probability concept that allows you to compute the value most likely to result in the long run given a set of outcomes, probabilities, and payoffs, i.e., it the mean of the probability distribution.  
+
+In terms of a formula, it can be thought of as $\text{Expected value} = \sum (\text{Relative Frequency} * \text{Value})$.  The weight sum of all the outcomes' values.
 
 ## GEOMETRY
 
