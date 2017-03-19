@@ -9,7 +9,7 @@ Great getting to talk to you today
 
 More text here
 
-After changes to slides and video templates
+After and operator
 
 {% capture slides-title %}Demo Lesson - Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}

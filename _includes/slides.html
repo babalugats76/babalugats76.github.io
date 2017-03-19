@@ -2,7 +2,7 @@
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://docs.google.com/presentation/d/{{slides}}/embed?start=false&loop=false&delayms=3000" frameborder="0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-   {% if slides-title %}
-      <p style="padding-top: 5px;"><a href="https://docs.google.com/presentation/d/{{slides-title}}/edit?usp=sharing" target="_blank" title="{{slides-title}}">{{slides-title}}</a></p>
-   {% endif %}
+{% endif %}
+{% if slides-title and slides %}
+  <p style="padding-top: 5px;"><a href="https://docs.google.com/presentation/d/{{slides-title}}/edit?usp=sharing" target="_blank" title="{{slides-title}}">{{slides-title}}</a></p>
 {% endif %}
