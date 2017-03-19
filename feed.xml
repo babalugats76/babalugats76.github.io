@@ -5,8 +5,8 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 15:49:58 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 15:49:58 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 15:51:04 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 15:51:04 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -29,10 +29,9 @@
 &lt;h3&gt;Directions&lt;/h3&gt;
 &lt;p&gt;What to do goes here...&lt;/p&gt;
 &lt;ul&gt;
-   &lt;li&gt;Question 1&lt;/li&gt;
-   &lt;li&gt;Question 2&lt;/li&gt;
-   &lt;li&gt;Question 3&lt;/li&gt;
-   &lt;li&gt;Question 4&lt;/li&gt;
+   &lt;li&gt;What spurred the innovation?&lt;/li&gt;
+   &lt;li&gt;What was the innovation?&lt;/li&gt;
+   &lt;li&gt;Why is this significant?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Instructional Video&lt;/h3&gt;
 &lt;p&gt;What to do goes here...&lt;/p&gt;
