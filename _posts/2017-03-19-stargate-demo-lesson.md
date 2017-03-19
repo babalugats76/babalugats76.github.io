@@ -37,3 +37,5 @@ excerpt: A demo lesson on innovation and its impact on our world
 {% capture video %}qnev44tUhic{% endcapture %}
 {% include video.html %}
 <p>More text, with link to Padlet</p>
+<p><a href="https://padlet.com/bobleeswagger/innovation" target="_blank" title="Demo Lesson - Padlet - Innovation">Demo Lesson - Padlet - Innovation</a></p>
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/ctjn0hncymsl" frameborder="0" style="width:100%;height:608px;display:block"></iframe></p><div style="padding:8px;text-align:right;margin:0;"><a href="https://padlet.com?ref=embed" style="padding:0;margin:0;border:none;display:block;line-height:1;height:16px" target="_blank"><img src="https://resources.padletcdn.com/assets/made_with_padlet.png" width="86" height="16" style="padding:0;margin:0;background:none;border:none;display:inline" alt="Made with Padlet"></a></div></div>
