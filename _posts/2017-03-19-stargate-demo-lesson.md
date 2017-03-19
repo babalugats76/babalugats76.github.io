@@ -18,10 +18,9 @@ If you are ready to continue, please proceed to the <a href="#activity">activity
 <h3>Directions</h3>
 <p>What to do goes here...</p>
 <ul>
-   <li>Question 1</li>
-   <li>Question 2</li>
-   <li>Question 3</li>
-   <li>Question 4</li>
+   <li>What spurred the innovation?</li>
+   <li>What was the innovation?</li>
+   <li>Why is this significant?</li>
 </ul>
 <h3>Instructional Video</h3>
 <p>What to do goes here...</p>
