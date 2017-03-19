@@ -9,13 +9,14 @@ It was nice getting to meet you today!  Here is a chance to continue working wit
 
 If you missed anything or would like to review the lesson, go back through the presentation.
 
-If you are ready to continue, please proceed to the <a href="#activity">activity</a>.
+<h4><a name="lesson">Lesson</a></h4>
 
 {% capture slides-title %}Demo Lesson - Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
 {% include slides.html %}
-
-<h3><a name="activity">Activity</a></h3>
+If you are ready to continue, please proceed to the <a href="#activity">activity</a>.
+<hr>
+<h4><a name="activity">Activity</a></h4>
 <h4>Directions</h4>
 <p>What to do goes here...</p>
 <ul>
