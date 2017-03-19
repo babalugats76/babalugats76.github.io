@@ -16,10 +16,10 @@ After and operator
 {% include slides.html %}
 
 Watch the video to learn shiz
-* 1
-* 2
+- 1
+- 2
 * 3
-* 4
+- 4
 
 {% capture video-title %}Demo Lesson - Video - Innovation{% endcapture %}
 {% capture video %}qnev44tUhic{% endcapture %}
