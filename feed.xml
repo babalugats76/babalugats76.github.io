@@ -5,8 +5,8 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 15:43:30 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 15:43:30 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 15:44:56 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 15:44:56 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;p&gt;If you missed anything or would like to review the lesson, go back through the presentation.&lt;/p&gt;
 
-&lt;h4&gt;&lt;a name=&quot;lesson&quot;&gt;Lesson&lt;/a&gt;&lt;/h4&gt;
+&lt;h2&gt;&lt;a name=&quot;lesson&quot;&gt;Lesson&lt;/a&gt;&lt;/h2&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
     &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://docs.google.com/presentation/d/1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;960&quot; height=&quot;569&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
@@ -26,8 +26,8 @@
 &lt;p&gt;If you are ready to continue, please proceed to the &lt;a href=&quot;#activity&quot;&gt;activity&lt;/a&gt;.&lt;/p&gt;
 &lt;hr /&gt;
 
-&lt;h4&gt;&lt;a name=&quot;activity&quot;&gt;Activity&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;Directions&lt;/h4&gt;
+&lt;h2&gt;&lt;a name=&quot;activity&quot;&gt;Activity&lt;/a&gt;&lt;/h2&gt;
+&lt;h3&gt;Directions&lt;/h3&gt;
 &lt;p&gt;What to do goes here...&lt;/p&gt;
 &lt;ul&gt;
    &lt;li&gt;Question 1&lt;/li&gt;
@@ -35,7 +35,7 @@
    &lt;li&gt;Question 3&lt;/li&gt;
    &lt;li&gt;Question 4&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Instructional Video&lt;/h4&gt;
+&lt;h3&gt;Instructional Video&lt;/h3&gt;
 &lt;p&gt;What to do goes here...&lt;/p&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
