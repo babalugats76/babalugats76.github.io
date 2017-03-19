@@ -40,9 +40,9 @@ excerpt: A demo lesson on innovation and its impact on our world
 <p style="padding-top: 5px;"><a href="https://thimbleprojects.org/colestock/233680" target="_blank" title="Demo Lesson - Thimble - Innovation">Demo Lesson - Thimble - Innovation</a></p>
 <h3>Padlet</h3>
 <ul>
-   <li>Double-click anywhere on the Padlet to add the link to your Innovation web page</li>
-   <li>Remember to title your post using only the <span class="highlighter">first name and last initial</span> of each author</li>
-   <li>Click on any of the icons and paste the URL to your completed project</li>
+   <li>Double-click anywhere on the Padlet</li>
+   <li>Title your post using <span class="highlighter">first names and last initials</span></li>
+   <li>Click on any of the icons to paste the URL to your completed web page</li>
 </ul>
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/ctjn0hncymsl" frameborder="0" style="width:100%;height:608px;display:block"></iframe></p><div style="padding:8px;text-align:right;margin:0;"><a href="https://padlet.com?ref=embed" style="padding:0;margin:0;border:none;display:block;line-height:1;height:16px" target="_blank"><img src="https://resources.padletcdn.com/assets/made_with_padlet.png" width="86" height="16" style="padding:0;margin:0;background:none;border:none;display:inline" alt="Made with Padlet"></a></div></div>
 <p style="padding-top: 5px;"><a href="https://padlet.com/bobleeswagger/innovation" target="_blank" title="Demo Lesson - Padlet - Innovation">Demo Lesson - Padlet - Innovation</a></p>
