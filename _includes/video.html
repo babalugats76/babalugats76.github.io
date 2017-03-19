@@ -2,4 +2,7 @@
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{video}}" frameborder="0" allowfullscreen></iframe>
 </div>
+   {% if video-title %}
+      <p style="padding-top: 5px;"><a href="https://www.youtube.com/embed/{{video}}" target="_blank" title="{{video-title}}">{{video-title}}</a></p>
+   {% endif %}
 {% endif %}
