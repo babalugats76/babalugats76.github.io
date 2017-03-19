@@ -14,6 +14,13 @@ After and operator
 {% capture slides-title %}Demo Lesson - Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
 {% include slides.html %}
+
+Watch the video to learn shiz
+* 1
+* 2
+* 3
+* 4
+
 {% capture video-title %}Demo Lesson - Video - Innovation{% endcapture %}
 {% capture video %}qnev44tUhic{% endcapture %}
 {% include video.html %}
