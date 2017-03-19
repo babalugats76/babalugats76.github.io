@@ -5,23 +5,31 @@ date:   2017-03-19 00:00:00 +0600
 tags: ["Lessons"]
 excerpt: A demo lesson on innovation and its impact on our world
 ---
-It was nice getting to meet you today!  Here is a chance to continue working with the topic of our conversation today: <strong>innovation</strong>.
+<p>It was nice getting to meet you today!  Here is a chance to continue working with the topic of our conversation today: <strong>innovation</strong>.</p>
 <h2><a name="lesson">Lesson</a></h2>
-If you missed anything or would like to review the lesson, go back through the presentation.
+<p>If you missed anything or would like to review the lesson, go back through the presentation.</p>
 {% capture slides-title %}Demo Lesson - Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
 {% include slides.html %}
 <p style="padding-top: 5px;"><a href="https://docs.google.com/document/d/1dZ5ffiv2Afqqxx6PzSqoXf_-h46XbBKrNaSNQUyqN9s/edit?usp=sharing" target="_blank" title="Demo Lesson - Note Catcher - Innovation">Demo Lesson - Note Catcher - Innovation</a></p>
-If you are ready to continue, please proceed to the <a href="#activity">activity</a>.
+<p>If you are ready to continue, please proceed to the <a href="#activity">activity</a>.</p>
 <hr>
 <h2><a name="activity">Activity</a></h2>
 <h3>Directions</h3>
-<p>What to do goes here...</p>
+<p>Individually or with a partner, choose an innovation that you would like to explore further.  As you learn more about it, make sure you can answer the three questions below.
+</p>
 <ul>
    <li>What spurred the innovation?</li>
    <li>What was the innovation?</li>
    <li>Why is this significant?</li>
 </ul>
+<p>Here are some websites that may help you with your research.</p>
+<ul>
+   <li><a href="http://www.google.com" target="_blank" title="Stuff">Resource 1</a></li>
+   <li><a href="http://www.google.com" target="_blank" title="Stuff">Resource 2</a></li>>
+   <li><a href="http://www.google.com" target="_blank" title="Stuff">Resource 3</a></li>
+</ul>
+<p>Now that you have your information, watch the video to learn what to do next.</p>
 <h3>Instructional Video</h3>
 <p>What to do goes here...</p>
 {% capture video-title %}Demo Lesson - Video - Innovation{% endcapture %}
