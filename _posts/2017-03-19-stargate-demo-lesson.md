@@ -6,11 +6,8 @@ tags: ["Lessons"]
 excerpt: A demo lesson on innovation and its impact on our world
 ---
 It was nice getting to meet you today!  Here is a chance to continue working with the topic of our conversation today: <strong>innovation</strong>.
-
-If you missed anything or would like to review the lesson, go back through the presentation.
-
 <h2><a name="lesson">Lesson</a></h2>
-
+If you missed anything or would like to review the lesson, go back through the presentation.
 {% capture slides-title %}Demo Lesson - Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
 {% include slides.html %}
