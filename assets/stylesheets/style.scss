@@ -208,6 +208,11 @@ a[aria-expanded=false] .glyphicon-chevron-down {
     font-weight: bold;
 }
 
+.highlighter {
+    background-color: yellow;
+    font-weight: bold;
+}
+
 .highlight pre code * {
     white-space: nowrap; // this sets all children inside to nowrap
 }

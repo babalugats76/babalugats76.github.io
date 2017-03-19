@@ -16,7 +16,7 @@ excerpt: A demo lesson on innovation and its impact on our world
 <hr>
 <h2><a name="activity">Activity</a></h2>
 <h3>Directions</h3>
-<p>Individually or with a partner, choose an innovation that you would like to explore further.  As you learn more about it, make sure you can answer the three questions below.
+<p>Individually or with a partner, <span class="highlighter">choose an innovation</span> that you would like to explore further.  As you learn more about it, make sure you can answer the three questions below.
 </p>
 <ul>
    <li>What spurred the innovation?</li>
