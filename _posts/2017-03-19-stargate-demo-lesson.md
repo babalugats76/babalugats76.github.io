@@ -36,10 +36,12 @@ excerpt: A demo lesson on innovation and its impact on our world
 {% capture video-title %}Demo Lesson - Video - Innovation{% endcapture %}
 {% capture video %}qnev44tUhic{% endcapture %}
 {% include video.html %}
-   <li>Click on the link to the Thimble project</li>
+<h3>Thimble</h3>
+<ul>   
+   <li>Click on the link to the Thimble project: <p style="padding-top: 5px;"><a href="https://thimbleprojects.org/colestock/233680" target="_blank" title="Demo Lesson - Thimble - Innovation">Demo Lesson - Thimble - Innovation</a></p></li>
    <li>Next, click &ldquo;Remix&rdquo; in the upper right-hand corner</li>
    <li>Follow the Tutorial to complete your web page</li>
-<p style="padding-top: 5px;"><a href="https://thimbleprojects.org/colestock/233680" target="_blank" title="Demo Lesson - Thimble - Innovation">Demo Lesson - Thimble - Innovation</a></p>
+</ul>
 <h3>Padlet</h3>
 <ul>
    <li>Double-click anywhere on the Padlet</li>
