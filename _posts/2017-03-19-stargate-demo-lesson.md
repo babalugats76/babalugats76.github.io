@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Demo Lesson - Innovation"
+title:  " - Innovation"
 date:   2017-03-19 00:00:00 +0600
 tags: ["Lessons"]
-excerpt: A demo lesson on innovation and its impact on our world
+excerpt: A  on innovation and its impact on our world
 ---
 <p>It was nice getting to meet you today!  Here is a chance to continue working with the topic of our conversation: <strong>innovation</strong>.</p>
 <h2><a name="lesson">Lesson</a></h2>
 <p>If you missed anything or would like to review the lesson, go back through the presentation.</p>
-{% capture slides-title %}Demo Lesson - Presentation - Innovation{% endcapture %}
+{% capture slides-title %}Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
 {% include slides.html %}
-<p><a href="https://docs.google.com/document/d/1dZ5ffiv2Afqqxx6PzSqoXf_-h46XbBKrNaSNQUyqN9s/edit?usp=sharing" target="_blank" title="Demo Lesson - Note Catcher - Innovation">Demo Lesson - Note Catcher - Innovation</a></p>
+<p><a href="https://docs.google.com/document/d/1dZ5ffiv2Afqqxx6PzSqoXf_-h46XbBKrNaSNQUyqN9s/edit?usp=sharing" target="_blank" title="Note Catcher - Innovation">Note Catcher - Innovation</a></p>
 <p>If you are ready to continue, please proceed to the <a href="#activity">activity</a>.</p>
 <hr>
 <h2><a name="activity">Activity</a></h2>
@@ -33,12 +33,12 @@ excerpt: A demo lesson on innovation and its impact on our world
 <p>Now that you have your innovation and your research, watch the video to learn what to do next.</p>
 <h3>Instructional Video</h3>
 <p>Next, grab some headphones and watch the video to learn how you will be sharing your findings with the rest of us.</p>
-{% capture video-title %}Demo Lesson - Video - Innovation{% endcapture %}
+{% capture video-title %}Video - Innovation{% endcapture %}
 {% capture video %}qnev44tUhic{% endcapture %}
 {% include video.html %}
 <h3>Thimble</h3>
 <ul>   
-   <li>Click on the link to the Thimble project: <p style="padding-top: 5px;"><a href="https://thimbleprojects.org/colestock/233680" target="_blank" title="Demo Lesson - Thimble - Innovation">Demo Lesson - Thimble - Innovation</a></p></li>
+   <li>Click on the link to the Thimble project: <a href="https://thimbleprojects.org/colestock/233680" target="_blank" title="Thimble - Innovation">Thimble - Innovation</a></li>
    <li>Next, click &ldquo;Remix&rdquo; in the upper right-hand corner</li>
    <li>Follow the Tutorial to complete your web page</li>
 </ul>
@@ -49,4 +49,4 @@ excerpt: A demo lesson on innovation and its impact on our world
    <li>Click on any of the icons to paste the URL to your completed web page</li>
 </ul>
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/ctjn0hncymsl" frameborder="0" style="width:100%;height:608px;display:block"></iframe></p><div style="padding:8px;text-align:right;margin:0;"><a href="https://padlet.com?ref=embed" style="padding:0;margin:0;border:none;display:block;line-height:1;height:16px" target="_blank"><img src="https://resources.padletcdn.com/assets/made_with_padlet.png" width="86" height="16" style="padding:0;margin:0;background:none;border:none;display:inline" alt="Made with Padlet"></a></div></div>
-<p style="padding-top: 5px;"><a href="https://padlet.com/bobleeswagger/innovation" target="_blank" title="Demo Lesson - Padlet - Innovation">Demo Lesson - Padlet - Innovation</a></p>
+<p style="padding-top: 5px;"><a href="https://padlet.com/bobleeswagger/innovation" target="_blank" title="Padlet - Innovation">Padlet - Innovation</a></p>
