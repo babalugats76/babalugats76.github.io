@@ -32,7 +32,7 @@ excerpt: A demo lesson on innovation and its impact on our world
 </ul>
 <p>Now that you have your innovation and your research, watch the video to learn what to do next.</p>
 <h3>Instructional Video</h3>
-<p>What to do goes here...</p>
+<p>Next, grab some headphones and watch the video to learn how you will be sharing your findings with the rest of us.</p>
 {% capture video-title %}Demo Lesson - Video - Innovation{% endcapture %}
 {% capture video %}qnev44tUhic{% endcapture %}
 {% include video.html %}
