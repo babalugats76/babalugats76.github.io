@@ -9,11 +9,11 @@ Great getting to talk to you today
 
 More text here
 
-Link in p this time
+After changes to slides and video templates
 
-{% capture title %}Demo Lesson - Presentation - Innovation{% endcapture %}
+{% capture slides-title %}Demo Lesson - Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
 {% include slides.html %}
+{% capture video-title %}Demo Lesson - Video - Innovation{% endcapture %}
 {% capture video %}qnev44tUhic{% endcapture %}
 {% include video.html %}
-<a href="https://www.youtube.com/embed/qnev44tUhic" target="_blank" title="Demo Lesson - Video - Innovation">Demo Lesson - Presentation - Innovation</a>
