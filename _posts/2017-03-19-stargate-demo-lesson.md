@@ -11,7 +11,7 @@ excerpt: A demo lesson on innovation and its impact on our world
 {% capture slides-title %}Demo Lesson - Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
 {% include slides.html %}
-<p style="padding-top: 5px;"><a href="https://docs.google.com/document/d/1dZ5ffiv2Afqqxx6PzSqoXf_-h46XbBKrNaSNQUyqN9s/edit?usp=sharing" target="_blank" title="Demo Lesson - Note Catcher - Innovation">Demo Lesson - Note Catcher - Innovation</a></p>
+<p><a href="https://docs.google.com/document/d/1dZ5ffiv2Afqqxx6PzSqoXf_-h46XbBKrNaSNQUyqN9s/edit?usp=sharing" target="_blank" title="Demo Lesson - Note Catcher - Innovation">Demo Lesson - Note Catcher - Innovation</a></p>
 <p>If you are ready to continue, please proceed to the <a href="#activity">activity</a>.</p>
 <hr>
 <h2><a name="activity">Activity</a></h2>
