@@ -5,8 +5,8 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 21:13:08 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 21:13:08 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 21:15:39 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 21:15:39 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -51,10 +51,12 @@
 
 &lt;p style=&quot;padding-top: 5px;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/embed/qnev44tUhic&quot; target=&quot;_blank&quot; title=&quot;Demo Lesson - Video - Innovation&quot;&gt;Demo Lesson - Video - Innovation&lt;/a&gt;&lt;/p&gt;
 
-&lt;li&gt;Click on the link to the Thimble project&lt;/li&gt;
-&lt;li&gt;Next, click &amp;ldquo;Remix&amp;rdquo; in the upper right-hand corner&lt;/li&gt;
-&lt;li&gt;Follow the Tutorial to complete your web page&lt;/li&gt;
-&lt;p style=&quot;padding-top: 5px;&quot;&gt;&lt;a href=&quot;https://thimbleprojects.org/colestock/233680&quot; target=&quot;_blank&quot; title=&quot;Demo Lesson - Thimble - Innovation&quot;&gt;Demo Lesson - Thimble - Innovation&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Thimble&lt;/h3&gt;
+&lt;ul&gt;   
+   &lt;li&gt;Click on the link to the Thimble project: &lt;p style=&quot;padding-top: 5px;&quot;&gt;&lt;a href=&quot;https://thimbleprojects.org/colestock/233680&quot; target=&quot;_blank&quot; title=&quot;Demo Lesson - Thimble - Innovation&quot;&gt;Demo Lesson - Thimble - Innovation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+   &lt;li&gt;Next, click &amp;ldquo;Remix&amp;rdquo; in the upper right-hand corner&lt;/li&gt;
+   &lt;li&gt;Follow the Tutorial to complete your web page&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;Padlet&lt;/h3&gt;
 &lt;ul&gt;
    &lt;li&gt;Double-click anywhere on the Padlet&lt;/li&gt;
