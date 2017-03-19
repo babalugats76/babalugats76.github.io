@@ -9,15 +9,15 @@ It was nice getting to meet you today!  Here is a chance to continue working wit
 
 If you missed anything or would like to review the lesson, go back through the presentation.
 
-<h4><a name="lesson">Lesson</a></h4>
+<h2><a name="lesson">Lesson</a></h2>
 
 {% capture slides-title %}Demo Lesson - Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
 {% include slides.html %}
 If you are ready to continue, please proceed to the <a href="#activity">activity</a>.
 <hr>
-<h4><a name="activity">Activity</a></h4>
-<h4>Directions</h4>
+<h2><a name="activity">Activity</a></h2>
+<h3>Directions</h3>
 <p>What to do goes here...</p>
 <ul>
    <li>Question 1</li>
@@ -25,7 +25,7 @@ If you are ready to continue, please proceed to the <a href="#activity">activity
    <li>Question 3</li>
    <li>Question 4</li>
 </ul>
-<h4>Instructional Video</h4>
+<h3>Instructional Video</h3>
 <p>What to do goes here...</p>
 {% capture video-title %}Demo Lesson - Video - Innovation{% endcapture %}
 {% capture video %}qnev44tUhic{% endcapture %}
