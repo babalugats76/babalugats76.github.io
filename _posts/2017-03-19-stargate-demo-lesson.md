@@ -11,10 +11,9 @@ More text here
 
 And more verbiage here
 
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://docs.google.com/presentation/d/1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao/embed?start=false&loop=false&delayms=3000" frameborder="0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
-
-<a href="https://docs.google.com/presentation/d/1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao/edit?usp=sharing" target="_blank" title="Demo Lesson - Presentation - Innovation">Demo Lesson - Presentation - Innovation</a>
+{% capture title %}Demo Lesson - Presentation - Innovation{% endcapture %}
+{% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
+{% include slides.html %}
 {% capture video %}qnev44tUhic{% endcapture %}
 {% include video.html %}
+<a href="https://www.youtube.com/embed/qnev44tUhic" target="_blank" title="Demo Lesson - Video - Innovation">Demo Lesson - Presentation - Innovation</a>
