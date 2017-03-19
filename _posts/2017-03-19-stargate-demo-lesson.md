@@ -9,7 +9,7 @@ Great getting to talk to you today
 
 More text here
 
-And more verbiage here
+Link in p this time
 
 {% capture title %}Demo Lesson - Presentation - Innovation{% endcapture %}
 {% capture slides %}1OC-Ve1-BwOLT1sa3Yk9UmKpUE45RdojEvrL9ear9eao{% endcapture %}
