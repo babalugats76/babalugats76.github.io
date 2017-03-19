@@ -5,8 +5,8 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 15:34:13 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 15:34:13 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 15:35:54 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 15:35:54 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -24,10 +24,9 @@
 &lt;p style=&quot;padding-top: 5px;&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/Demo Lesson - Presentation - Innovation/edit?usp=sharing&quot; target=&quot;_blank&quot; title=&quot;Demo Lesson - Presentation - Innovation&quot;&gt;Demo Lesson - Presentation - Innovation&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Watch the video to learn shiz
-- 1
-- 2
-* 3
-- 4&lt;/p&gt;
+*   Red
+*   Green
+*   Blue&lt;/p&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
     &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/qnev44tUhic&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
