@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " - Innovation"
+title:  "Innovation"
 date:   2017-03-19 00:00:00 +0600
 tags: ["Lessons"]
 excerpt: A  on innovation and its impact on our world
