@@ -34,8 +34,9 @@ excerpt: A  on innovation and its impact on our world
 <h3>Instructional Video</h3>
 <p>Next, grab some headphones and watch the video to learn how you will be sharing your findings with the rest of us.</p>
 {% capture video-title %}Video - Innovation{% endcapture %}
-{% capture video %}qnev44tUhic{% endcapture %}
+{% capture video %}HkxHqh6PYec{% endcapture %}
 {% include video.html %}
+<p>YouTube blocked? <a href="http://static.colestock.com/videos/Thimble_Innovation.mp4" target="_blank">Click here</a> to access the video directly.</p>
 <h3>Thimble</h3>
 <ul>   
    <li>Click on the link to the Thimble project: <a href="https://thimbleprojects.org/colestock/233680" target="_blank" title="Thimble - Innovation">Thimble - Innovation</a></li>
