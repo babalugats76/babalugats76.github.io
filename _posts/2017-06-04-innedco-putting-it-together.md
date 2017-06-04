@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "InnEdCo - Putting IT Together"
-date:   2017-06-04 00:00:00 +0600
+date:   2017-06-12 00:00:00 +0600
 tags: ["InnEdCo"]
 excerpt: Resources to accompany Putting IT Together - A Tech Program for the Real World
 ---
