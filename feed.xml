@@ -5,17 +5,21 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Jun 2017 22:45:33 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Jun 2017 22:45:33 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Jun 2017 22:48:38 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Jun 2017 22:48:38 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>InnEdCo - Putting IT Together</title>
-        <description>&lt;h2&gt;Welcome&lt;/h2&gt;
+        <description>&lt;h3&gt;Welcome&lt;/h3&gt;
 &lt;p&gt;Thank you for attending &lt;strong&gt;Putting IT Together - A Tech Program for the Real World&lt;/strong&gt;!&lt;/p&gt;
 &lt;h3&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;This Problem of Practice session focuses on the challenges involved in implementing real-world technology programs in our schools, including potential solutions and ways forward.&lt;/p&gt;
-&lt;h3&gt;Agenda - Thursday, June 15&lt;sup&gt;th&lt;/sup&gt;, 2017 - 9:30-10:30&lt;/h3&gt;
+&lt;h4&gt;When:&lt;/h4&gt;
+&lt;p&gt;Thursday, June 15&lt;sup&gt;th&lt;/sup&gt;, 2017 - 9:30-10:30&lt;/p&gt;
+&lt;h4&gt;Where:&lt;/h4&gt;
+&lt;p&gt;Cascadia Room blah&lt;/p&gt;
+&lt;h3&gt;Agenda&lt;/h3&gt;
 &lt;p&gt;In order to maximize and honor our time, we will follow this agenda:&lt;/p&gt;
 &lt;ol&gt;
    &lt;li&gt;&lt;span style=&quot;background-color: rgba(256,256,0,0.5);&quot;&gt;&lt;strong&gt;Take&lt;/strong&gt; &lt;a class=&quot;typeform-share link&quot; href=&quot;https://james834.typeform.com/to/w4gR7t&quot; data-mode=&quot;drawer_right&quot; target=&quot;_blank&quot; title=&quot;Putting IT Together - Survey&quot;&gt;Survey&lt;/a&gt;&lt;/span&gt; &lt;script&gt; (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=&quot;typef_orm_share&quot;, b=&quot;https://embed.typeform.com/&quot;; if(!gi.call(d,id)){ js=ce.call(d,&quot;script&quot;); js.id=id; js.src=b+&quot;embed.js&quot;; q=gt.call(d,&quot;script&quot;)[0]; q.parentNode.insertBefore(js,q) } })() &lt;/script&gt;
