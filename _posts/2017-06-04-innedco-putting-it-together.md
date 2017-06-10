@@ -10,7 +10,7 @@ excerpt: Resources to accompany Putting IT Together - A Tech Program for the Rea
 <h3>Introduction</h3>
 <p>This Problem of Practice session focuses on the challenges involved in implementing real-world technology programs in our schools, including potential solutions and ways forward.</p>
 <h4>When / Where:</h4>
-<p>Thursday, June 15<sup>th</sup>, 2017 - 9:30-10:30 / Cascadia Room</p>
+<p>Thursday, June 15<sup>th</sup>, 2017 - 9:15-10:15 / Crestone 1</p>
 <h3>Agenda</h3>
 <p>In order to maximize and honor our time, we will follow this agenda:</p>
 <ol>
