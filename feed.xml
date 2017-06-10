@@ -5,13 +5,14 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Jun 2017 00:33:55 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Jun 2017 00:33:55 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Jun 2017 21:48:04 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Jun 2017 21:48:04 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>InnEdCo - Putting IT Together</title>
-        <description>&lt;p&gt;Here is where the resources will go that accompany my presentation…&lt;/p&gt;
+        <description>&lt;p&gt;Here is where the resources will go that accompany my presentation…
+&lt;a class=&quot;typeform-share button&quot; href=&quot;https://james834.typeform.com/to/w4gR7t&quot; data-mode=&quot;popup&quot; style=&quot;display:inline-block;text-decoration:none;background-color:#267DDD;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;&quot; target=&quot;_blank&quot;&gt;Take Survey &lt;/a&gt; &lt;script&gt; (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=&quot;typef_orm_share&quot;, b=&quot;https://embed.typeform.com/&quot;; if(!gi.call(d,id)){ js=ce.call(d,&quot;script&quot;); js.id=id; js.src=b+&quot;embed.js&quot;; q=gt.call(d,&quot;script&quot;)[0]; q.parentNode.insertBefore(js,q) } })() &lt;/script&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Jun 2017 18:00:00 +0000</pubDate>
         <link>http://www.colestock.com/2017/06/03/innedco-putting-it-together/</link>
