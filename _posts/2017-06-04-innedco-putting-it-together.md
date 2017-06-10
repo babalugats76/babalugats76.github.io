@@ -7,7 +7,6 @@ excerpt: Resources to accompany Putting IT Together - A Tech Program for the Rea
 ---
 <h3>Welcome</h3>
 <p>Thank you for attending <strong>Putting IT Together - A Tech Program for the Real World</strong>!</p>
-<br>
 <p>This Problem of Practice session focuses on the challenges involved in implementing real-world technology programs in our schools, including potential solutions and ways forward.</p>
 <h3>When / Where:</h3>
 <p>Thursday, June 15<sup>th</sup>, 2017 - 9:15-10:15 / Crestone 1</p>
