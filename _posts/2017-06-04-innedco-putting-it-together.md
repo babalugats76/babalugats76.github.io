@@ -16,7 +16,7 @@ excerpt: Resources to accompany Putting IT Together - A Tech Program for the Rea
    <li><span style="background-color: rgba(256,256,0,0.5);"><strong>Take</strong> <a class="typeform-share link" href="https://james834.typeform.com/to/w4gR7t" data-mode="drawer_right" target="_blank" title="Putting IT Together - Survey">Survey</a></span> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 </li>
    <li><strong>Review</strong> <a href="https://james834.typeform.com/report/w4gR7t/doof" target="_blank" title="Putting IT Together - Survey Results">Survey Results</a></li>
-   <li><strong>Share</strong> Presentation / Discussion</li>
+   <li><strong>Share</strong> <a href="https://docs.google.com/presentation/d/1tqI5ZxwQLKqyIel0Z9TdTKGe8gZlOwkNmPzNx_H6-nY/edit?usp=sharing" title="Google Slides: Putting IT Together">Presentation</a> / Discussion</li>
    <li><strong>Get</strong> Swag</li>
 </ol>
 <h3>About the Swag</h3>
