@@ -20,12 +20,12 @@ excerpt: Resources to accompany Putting IT Together - A Tech Program for the Rea
    <li><strong>Get</strong> swag &amp; business card</li>
 </ol>
 <h3>Be Social</h3>
-<p>Don&rsquo;t be a stranger: <a href="https://twitter.com/JamesColestock" class="twitter-follow-button" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @JamesColestock</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>, <a href="https://www.youtube.com/c/jamescolestock?sub_confirmation=1" target="_blank" title="Subscribe to my YouTube channel">subscribe</a> to my YouTube channel, or <a href="mailto:james@colestock.com?Subject=Putting%20IT%20Together" target="_blank">email</a>!
+<p>Don&rsquo;t be a stranger: <a href="https://twitter.com/JamesColestock" class="twitter-follow-button" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @JamesColestock</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>, <a href="https://www.youtube.com/c/jamescolestock?sub_confirmation=1" target="_blank" title="Subscribe to my YouTube channel">subscribe</a> to my YouTube channel, or <a href="mailto:james@colestock.com?Subject=Putting%20IT%20Together" target="_blank" title="Email me at james@colestock.com">email</a>!
 <h3>Stuff Worth Checking Out<h3>
 <ul>
-   <li></li>
-   <li></li>
-   <li></li>
+   <li><a href="https://thunkable.com/#/" target="_blank" title="Thunkable">Thunkable</a></li>
+   <li><a href="https://www.scirra.com/" target="_blank" title="Scirra: Makers of Construct 2">Scirra</a></li>
+   <li><a href="https://www.playcodemonkey.com/" target="_blank" title="CodeMonkey">CodeMonkey</a></li>
    <li></li>
 </ul>
 <h3>About the Swag</h3>
