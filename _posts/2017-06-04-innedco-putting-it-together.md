@@ -23,10 +23,12 @@ excerpt: Resources to accompany Putting IT Together - A Tech Program for the Rea
 <p>Don&rsquo;t be a stranger: <a href="https://twitter.com/JamesColestock" class="twitter-follow-button" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @JamesColestock</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>, <a href="https://www.youtube.com/c/jamescolestock?sub_confirmation=1" target="_blank" title="Subscribe to my YouTube channel">subscribe</a> to my YouTube channel, or <a href="mailto:james@colestock.com?Subject=Putting%20IT%20Together" target="_blank" title="Email me at james@colestock.com">email</a>!
 <h3>Stuff Worth Checking Out</h3>
 <ul>
-   <li><a href="https://thunkable.com/#/" target="_blank" title="Thunkable">Thunkable</a></li>
    <li><a href="https://www.scirra.com/" target="_blank" title="Scirra: Makers of Construct 2">Scirra</a></li>
    <li><a href="https://www.playcodemonkey.com/" target="_blank" title="CodeMonkey">CodeMonkey</a></li>
-   <li></li>
+   <li><a href="https://kenney.nl/" target="_blank" title="Kenney">Kenney: Maker of Great Assets</a></li>
+   <li><a href="https://thimble.mozilla.org/en-US/" target="_blank" title="Thimble by Mozilla - An online code editor for learners & educators.">Mozilla Thimble</a></li>
+   <li><a href="https://www.adafruit.com/product/3362" target="_blank" title="BBC micro:bit Go Bundle ID: 3362 - $16.50 : Adafruit Industries, Unique & fun DIY electronics and kits">BBC micro:bit Go Bundle</a></li>
+   <li><a href="https://thunkable.com/#/" target="_blank" title="Thunkable">Thunkable</a></li>
 </ul>
 <h3>About the Swag</h3>
 <img class="img-responsive" title="Don't forget to pick up your swag!" src="http://static.colestock.com/images/putting-it-together-swag-800x600.jpg" alt="Swag to pick up" />
