@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "InnEdCo - Putting IT Together"
-date:   2017-06-04 00:00:00 +0600
+date:   2017-06-15 00:00:00 +0600
 tags: ["InnEdCo"]
 excerpt: Resources to accompany Putting IT Together - A Tech Program for the Real World
 ---
@@ -20,7 +20,7 @@ excerpt: Resources to accompany Putting IT Together - A Tech Program for the Rea
    <li><strong>Get</strong> Swag &amp; Business Card</li>
 </ol>
 <h3>Be Social</h3>
-<p>Don&rsquo;t be a stranger: <a href="https://twitter.com/JamesColestock" class="twitter-follow-button" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @JamesColestock</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>, <a href="https://www.youtube.com/c/jamescolestock?sub_confirmation=1" target="_blank" title="Subscribe to my YouTube channel">subscribe</a> to my YouTube channel, or <a href="mailto:james@colestock.com?Subject=Putting%20IT%20Together" target="_blank" title="Email me at james@colestock.com">email</a>!
+<p>Don&rsquo;t be a stranger: <a href="https://twitter.com/JamesColestock" class="twitter-follow-button" data-show-screen-name="false" data-dnt="true" data-show-count="false">Follow @JamesColestock</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>, subscribe to <a href="https://www.youtube.com/c/jamescolestock" target="_blank" title="Subscribe to my YouTube channel">my YouTube channel</a>, or <a href="mailto:james@colestock.com?Subject=Putting%20IT%20Together" target="_blank" title="Email me at james@colestock.com">email</a>!
 <h3>Worth Checking Out</h3>
 <p>Every year, my Game Design students participate in a Game Design showcase. The best student games are played online by people far and wide to determine the overall winner. This is a great example of the kind of real-world, authentic experiences I cover in this session. <strong>Experience it for yourself</strong>. Go to <a href="http://www.apstech.org" target="_blank" title="16-17 APSOL Game Design Showcase">www.apstech.org</a>, play our top three games and then vote for your favorite!</p>
 <h3>Other Stuff Worth Checking Out</h3>
