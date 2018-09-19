@@ -8,7 +8,8 @@ excerpt: James Colestock is an educator and Information Technology professional 
 <hr>
 <div class="row">
     <div class="col-md-8">
-        <p>James Colestock, the pride of Fort Wayne, Indiana, now lives and teaches in the Denver Metro area. In 2012, James decided to set aside the corporate world and pursue his long-standing interest in teaching. Shortly thereafter, he completed his student teaching at Abraham Lincoln High School alongside Mr. Jackie McBroom while earning a Master’s degree in Secondary Education, a Colorado teaching license, and multiple CTE (Career and Technical
+        <p>James Colestock, the pride of Fort Wayne, Indiana, now lives and teaches in the Denver Metro area.</p>
+        <p>In 2012, James decided to set aside the corporate world and pursue his long-standing interest in teaching. Shortly thereafter, he completed his student teaching at Abraham Lincoln High School alongside Mr. Jackie McBroom while earning a Master’s degree in Secondary Education, a Colorado teaching license, and multiple CTE (Career and Technical
             Education) endorsements. Since then, he has focused on developing and delivering a comprehensive CTE Information Technology program, most recently at APS Online High School (now called APS Avenues) in Aurora Public Schools.</p>
         <p>Before becoming an educator, James was a proud Mastodon at IPFW – the joint campus of Indiana University and Purdue University in his hometown of Fort Wayne – where he studied Business and Computers, setting him up for a 15-year career as an Oracle
             Database Administrator. He continues to be involved in a variety of technology-related endeavors.</p>
