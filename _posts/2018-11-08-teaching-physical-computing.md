@@ -1,6 +1,6 @@
 ---
 layout: post
-    title:  "Teaching Physical Computing"
+title:  "Teaching Physical Computing"
 date:   2017-11-08 00:30:00 +0600
 tags: ["Raspberry Pi"]
 excerpt: Thoughts on FutureLearn's PD Teaching Physical Computing with Raspberry Pi and Python 
