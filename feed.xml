@@ -5,15 +5,15 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Nov 2018 08:10:15 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 08:10:15 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Nov 2018 08:13:34 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Nov 2018 08:13:34 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Teaching Physical Computing</title>
         <description>&lt;p&gt;Unfortunately, I wasn&#39;t chosen to attend last year&#39;s &lt;a href=&quot;https://www.raspberrypi.org/training/picademy/&quot; target=&quot;_blank&quot;&gt;Picademy&lt;/a&gt;.  Instead, I have been working through FutureLearn&#39;s &lt;a href=&quot;https://www.futurelearn.com/courses/physical-computing-raspberry-pi-python&quot; target=&quot;_blank&quot;&gt;Teaching Physical Computing with Raspberry Pi and Python&lt;/a&gt; course.&lt;/p&gt;
 &lt;p&gt;This 4-week PD is focused on building simple, physical, interactive systems aimed at teaching computing concepts.  The course focuses on the traditional Raspberry Pi and Python 3, but I have been trying to adapt much of the materials to work on the much more cost-friendly Raspberry Pi Zero W.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.qaeducation.co.uk/news/physical-computing&quot; target=&quot;_blank&quot;&gt;This article&lt;/a&gt; in QA Education Magazine has the gist from the course authors&#39; perspective. and am documenting the nitty gritty in this &lt;a href=&quot;https://github.com/babalugats76/teach-physical-computing&quot; target=&quot;_blank&quot;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.qaeducation.co.uk/news/physical-computing&quot; target=&quot;_blank&quot;&gt;This article&lt;/a&gt; in QA Education Magazine has the gist from the course authors&#39; perspective. and I am documenting the nitty gritty in this &lt;a href=&quot;https://github.com/babalugats76/teach-physical-computing&quot; target=&quot;_blank&quot;&gt;GitHub repository&lt;/a&gt; because the devil very much is in the details.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Nov 2017 18:30:00 +0000</pubDate>
         <link>http://www.colestock.com/2017/11/07/teaching-physical-computing/</link>
