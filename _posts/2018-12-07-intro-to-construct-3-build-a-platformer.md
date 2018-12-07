@@ -3,7 +3,7 @@ layout: post
 title:  "Intro to Construct 3 - Build a Platformer"
 date:   2018-12-07 14:30:00 +0600
 tags: ["Online Courses", "Udemy", "Game Design"]
-excerpt: Just released a new Udemy course: Intro to Construct 3 - Build a Platformer
+excerpt: Just released a new Udemy course entitled Intro to Construct 3 - Build a Platformer
 ---
 This week, I released my first Udemy course: <a href="https://www.udemy.com/share/100HTrAEAedF5TRHQ=/" target="_blank" title="Udemy Course: Intro to Construct 3 - Build a Platformer">Intro to Construct 3 - Build a Platformer</a>.  This project-based focuses on the fundamentals of 2D game development using the powerful and easy-to-use Construct 3 game engine.
 
