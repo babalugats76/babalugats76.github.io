@@ -5,8 +5,8 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Dec 2018 23:16:52 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Dec 2018 23:16:52 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Dec 2018 23:17:44 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Dec 2018 23:17:44 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -16,7 +16,7 @@
 &lt;p&gt;Check out the promo video:&lt;/p&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/yNfRd1Kgvgw&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/yNfRd1Kgvgw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;In the course, we build this Platformer game:&lt;/p&gt;
@@ -143,10 +143,10 @@ Here is an example of Platformer with challenge functionality applied:&lt;/p&gt;
 &lt;p&gt;Next, grab some headphones and watch the video to learn how you will be sharing your findings with the rest of us.&lt;/p&gt;
 
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/HkxHqh6PYec&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/HkxHqh6PYec?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p style=&quot;padding-top: 5px;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/embed/HkxHqh6PYec&amp;amp;rel=0&quot; target=&quot;_blank&quot; title=&quot;Video - Innovation&quot;&gt;Video - Innovation&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-top: 5px;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/embed/HkxHqh6PYec?rel=0&quot; target=&quot;_blank&quot; title=&quot;Video - Innovation&quot;&gt;Video - Innovation&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;YouTube blocked? &lt;a href=&quot;http://static.colestock.com/videos/Thimble_Innovation.mp4&quot; target=&quot;_blank&quot;&gt;Click here&lt;/a&gt; to access the video directly.&lt;/p&gt;
 &lt;h3&gt;Thimble&lt;/h3&gt;
@@ -282,7 +282,7 @@ I use Tank Run as a model mini-game for teaching &lt;strong&gt;cross-platform Ga
         <title>The Best Christmas Song</title>
         <description>
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/EFLaUL8NG9Y&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/EFLaUL8NG9Y?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -328,7 +328,7 @@ I use Tank Run as a model mini-game for teaching &lt;strong&gt;cross-platform Ga
         <title>Computer Science at Colorado School of Mines</title>
         <description>
 &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/qnev44tUhic&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/qnev44tUhic?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
