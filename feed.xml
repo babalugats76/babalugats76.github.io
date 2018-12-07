@@ -5,8 +5,8 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Dec 2018 23:24:39 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Dec 2018 23:24:39 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Dec 2018 23:27:32 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Dec 2018 23:27:32 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -18,11 +18,14 @@
     &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/yNfRd1Kgvgw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;In the course, we build this Platformer game:&lt;/p&gt;
-&lt;iframe frameborder=&quot;0&quot; src=&quot;https://itch.io/embed/340339&quot; width=&quot;552&quot; height=&quot;167&quot;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;https://itch.io/embed/335237&quot; width=&quot;552&quot; height=&quot;167&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;This course is more than just monkey-see-monkey-do-style learning: challenges are provided throughout to allow students to make the game their own, to express their own unique point of view.
 Here is an example of Platformer with challenge functionality applied:&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;https://itch.io/embed/340339&quot; width=&quot;552&quot; height=&quot;167&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: You need a valid &lt;a href=&quot;https://www.construct.net/en/make-games/buy-construct-3&quot; target=&quot;_blank&quot; title=&quot;Buy Construct 3&quot;&gt;Construct 3&lt;/a&gt; subscription to complete the course...just think of it as an investment in your future as a Game Designer!&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Dec 2018 08:30:00 +0000</pubDate>
