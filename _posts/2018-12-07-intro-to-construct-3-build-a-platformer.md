@@ -9,9 +9,12 @@ excerpt: Just released a new Udemy course entitled Intro to Construct 3 - Build 
 <p>Check out the promo video:</p>
 {% capture video %}yNfRd1Kgvgw{% endcapture %}
 {% include video.html %}
+<br>
 <p>In the course, we build this Platformer game:</p>
-<iframe frameborder="0" src="https://itch.io/embed/340339" width="552" height="167"></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/335237" width="552" height="167"></iframe>
+<br>
 <p>This course is more than just monkey-see-monkey-do-style learning: challenges are provided throughout to allow students to make the game their own, to express their own unique point of view.
 Here is an example of Platformer with challenge functionality applied:</p>
 <iframe frameborder="0" src="https://itch.io/embed/340339" width="552" height="167"></iframe>
+<br>
 <p><strong>Note</strong>: You need a valid <a href="https://www.construct.net/en/make-games/buy-construct-3" target="_blank" title="Buy Construct 3">Construct 3</a> subscription to complete the course...just think of it as an investment in your future as a Game Designer!</p>
