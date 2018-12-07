@@ -9,7 +9,7 @@ excerpt: Just released a new Udemy course entitled Intro to Construct 3 - Build 
 <p>Check out the promo video:</p>
 {% capture video %}yNfRd1Kgvgw{% endcapture %}
 {% include video.html %}
-<br>
+<p></p>
 <p>In the course, we build this Platformer game:</p>
 <iframe frameborder="0" src="https://itch.io/embed/335237" width="552" height="167"></iframe>
 <p>This course is more than just monkey-see-monkey-do-style learning: challenges are provided throughout to allow students to make the game their own, to express their own unique point of view.
