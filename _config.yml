@@ -9,7 +9,7 @@ sass:
     sass_dir: assets/stylesheets
     style: compressed
 permalink: pretty
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate_path: "page/:num"
 paginate: 1    
 highlighter: pygments
