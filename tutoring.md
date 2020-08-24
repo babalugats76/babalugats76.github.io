@@ -5,4 +5,7 @@ dropdown: services
 permalink: /tutoring/
 excerpt: James Colestock provides tutoring services to students of all ages focused on Programming and Web Design, e.g., Python, HTML/CSS, JavaScript
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCIZsOpsNsH4jTZgfUg-WYH8fmGYXxnGmmkX9C5XjfqlpFlQh_4ap-fC_8NpGNNjF7Hihgm5CJuMTi/embed?start=true&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCIZsOpsNsH4jTZgfUg-WYH8fmGYXxnGmmkX9C5XjfqlpFlQh_4ap-fC_8NpGNNjF7Hihgm5CJuMTi/embed?start=true&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
