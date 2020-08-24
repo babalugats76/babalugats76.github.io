@@ -33,6 +33,7 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services<span class="caret"></span></a>
 	  <ul class="dropdown-menu">
               {% for my_page in site.pages %} {% if my_page.dropdown == 'services' %}
+	      <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li> {% endif %} {% endfor %}
 	      <li><a href="https://www.wyzant.com/Tutors/jamesc">Wyzant</a></li>
 	  </ul>
 	</li>
