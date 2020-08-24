@@ -11,7 +11,7 @@ excerpt: James Colestock is a passionate educator and technologist with diverse 
   <!-- start left column -->
   <div class="col-md-7">
     <h2 class="xs-mt-5 sm-mt-5 md-mt-5 lg-mt-5">Summary</h2>
-<p>I am an experienced IT professional that now focuses on education.  I spent a couple of decades immersed in all things technology before deciding to set my sights on an even more daunting challenge: preparing the next generation of innovators and technologists.</p><p>My focus is on embuing others with the power to shape the world by teaching them lynchpin technical skills while affording them the opportunity to experience the creative process for themselves. I believe a high-quality Technology &amp; Computer Science education should be afforded to everyone!</p>
+<p>I am an experienced IT professional that now focuses on education. After spending a couple of decades immersed in all things technology, I decided to set my sights on an even more daunting challenge: preparing the next generation of innovators and technologists.</p><p>My focus is on embuing others with the power to shape the world by teaching them lynchpin technical skills while affording them the opportunity to experience the creative process for themselves. I believe a high-quality Technology &amp; Computer Science education should be afforded to everyone!</p>
     <div id="career-panel" class="panel panel-info xs-mt-20 sm-mt-20 md-mt-20 lg-mt-20">
       <div class="panel-heading">
         <h3 class="panel-title">Career at a Glance</h3>
