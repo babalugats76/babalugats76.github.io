@@ -12,7 +12,7 @@ You can learn a lot from Canada's national pastime: hockey.  In this lesson, we 
 {% capture left-column %}
 ## Resources
 <ul class="fa-ul">
-   <li><i class="fa fa-file-pdf-o"></i><a href="http://static.colestock.com/Hockey_Life_Lessons_Handout.pdf" target="_blank" title="Handout: Hockey Life Lessons">Handout: Hockey Life Lessons</a></li>
+   <li><i class="fa fa-file-pdf-o"></i><a href="https://static.colestock.com/Hockey_Life_Lessons_Handout.pdf" target="_blank" title="Handout: Hockey Life Lessons">Handout: Hockey Life Lessons</a></li>
    <li><i class="fa fa-external-link"></i><a href="http://usat.ly/1u2fNko" title="USA Today: The Ivy Leaguer who fought his way to the NHL | For The Win">USA Today: The Ivy Leaguer who fought his way to the NHL</a></li>
 </ul>
 {% endcapture %}

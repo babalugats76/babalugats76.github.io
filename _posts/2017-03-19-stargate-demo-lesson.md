@@ -36,7 +36,7 @@ excerpt: A  on innovation and its impact on our world
 {% capture video-title %}Video - Innovation{% endcapture %}
 {% capture video %}HkxHqh6PYec{% endcapture %}
 {% include video.html %}
-<p>YouTube blocked? <a href="http://static.colestock.com/videos/Thimble_Innovation.mp4" target="_blank">Click here</a> to access the video directly.</p>
+<p>YouTube blocked? <a href="https://static.colestock.com/videos/Thimble_Innovation.mp4" target="_blank">Click here</a> to access the video directly.</p>
 <h3>Thimble</h3>
 <ul>   
    <li>Click on the link to the Thimble project: <a href="https://thimbleprojects.org/colestock/233680" target="_blank" title="Thimble - Innovation">Thimble - Innovation</a></li>

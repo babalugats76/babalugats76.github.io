@@ -33,6 +33,6 @@ excerpt: Resources to accompany Putting IT Together - A Tech Program for the Rea
    <li><a href="https://thunkable.com/#/" target="_blank" title="Thunkable">Thunkable</a></li>
 </ul>
 <h3>About the Swag</h3>
-<img class="img-responsive" title="Don't forget to pick up your swag!" src="http://static.colestock.com/images/putting-it-together-swag-800x600.jpg" alt="Swag to pick up" />
+<img class="img-responsive" title="Don't forget to pick up your swag!" src="https://static.colestock.com/images/putting-it-together-swag-800x600.jpg" alt="Swag to pick up" />
 <p style="margin-top: 0.5em;">I got in contact with a few of my favorite vendors, <a href="https://www.scirra.com/" target="_blank" title="Creators of Construct 2">Scirra</a> (makers of Construct 2) and <a href="https://www.playcodemonkey.com/" target="_blank" title="CodeMonkey">CodeMonkey</a>. They were kind enough to send mini-swag for all attendees.</p>
 <p>If you want more information about these tools, please feel free to <a href="mailto:james@colestock.com?Subject=Putting%20IT%20Together" target="_blank">contact me</a>.</p>
