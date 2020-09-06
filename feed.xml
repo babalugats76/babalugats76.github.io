@@ -5,8 +5,8 @@
     <description>The Internet Home of James Colestock</description>
     <link>http://www.colestock.com/</link>
     <atom:link href="http://www.colestock.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Aug 2020 03:42:56 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2020 03:42:56 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Sep 2020 23:59:00 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2020 23:59:00 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -84,7 +84,7 @@
    &lt;li&gt;&lt;a href=&quot;https://thunkable.com/#/&quot; target=&quot;_blank&quot; title=&quot;Thunkable&quot;&gt;Thunkable&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;About the Swag&lt;/h3&gt;
-&lt;img class=&quot;img-responsive&quot; title=&quot;Don't forget to pick up your swag!&quot; src=&quot;http://static.colestock.com/images/putting-it-together-swag-800x600.jpg&quot; alt=&quot;Swag to pick up&quot; /&gt;
+&lt;img class=&quot;img-responsive&quot; title=&quot;Don't forget to pick up your swag!&quot; src=&quot;https://static.colestock.com/images/putting-it-together-swag-800x600.jpg&quot; alt=&quot;Swag to pick up&quot; /&gt;
 &lt;p style=&quot;margin-top: 0.5em;&quot;&gt;I got in contact with a few of my favorite vendors, &lt;a href=&quot;https://www.scirra.com/&quot; target=&quot;_blank&quot; title=&quot;Creators of Construct 2&quot;&gt;Scirra&lt;/a&gt; (makers of Construct 2) and &lt;a href=&quot;https://www.playcodemonkey.com/&quot; target=&quot;_blank&quot; title=&quot;CodeMonkey&quot;&gt;CodeMonkey&lt;/a&gt;. They were kind enough to send mini-swag for all attendees.&lt;/p&gt;
 &lt;p&gt;If you want more information about these tools, please feel free to &lt;a href=&quot;mailto:james@colestock.com?Subject=Putting%20IT%20Together&quot; target=&quot;_blank&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;
@@ -140,7 +140,7 @@
 
 &lt;p style=&quot;padding-top: 5px;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/embed/HkxHqh6PYec?rel=0&quot; target=&quot;_blank&quot; title=&quot;Video - Innovation&quot;&gt;Video - Innovation&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;YouTube blocked? &lt;a href=&quot;http://static.colestock.com/videos/Thimble_Innovation.mp4&quot; target=&quot;_blank&quot;&gt;Click here&lt;/a&gt; to access the video directly.&lt;/p&gt;
+&lt;p&gt;YouTube blocked? &lt;a href=&quot;https://static.colestock.com/videos/Thimble_Innovation.mp4&quot; target=&quot;_blank&quot;&gt;Click here&lt;/a&gt; to access the video directly.&lt;/p&gt;
 &lt;h3&gt;Thimble&lt;/h3&gt;
 &lt;ul&gt;   
    &lt;li&gt;Click on the link to the Thimble project: &lt;a href=&quot;https://thimbleprojects.org/colestock/233680&quot; target=&quot;_blank&quot; title=&quot;Thimble - Innovation&quot;&gt;Thimble - Innovation&lt;/a&gt;&lt;/li&gt;
@@ -184,7 +184,7 @@
         
 &lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
 &lt;ul class=&quot;fa-ul&quot;&gt;
-   &lt;li&gt;&lt;i class=&quot;fa fa-file-pdf-o&quot;&gt;&lt;/i&gt;&lt;a href=&quot;http://static.colestock.com/Hockey_Life_Lessons_Handout.pdf&quot; target=&quot;_blank&quot; title=&quot;Handout: Hockey Life Lessons&quot;&gt;Handout: Hockey Life Lessons&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;i class=&quot;fa fa-file-pdf-o&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://static.colestock.com/Hockey_Life_Lessons_Handout.pdf&quot; target=&quot;_blank&quot; title=&quot;Handout: Hockey Life Lessons&quot;&gt;Handout: Hockey Life Lessons&lt;/a&gt;&lt;/li&gt;
    &lt;li&gt;&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;a href=&quot;http://usat.ly/1u2fNko&quot; title=&quot;USA Today: The Ivy Leaguer who fought his way to the NHL | For The Win&quot;&gt;USA Today: The Ivy Leaguer who fought his way to the NHL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -237,15 +237,15 @@ I use Tank Run as a model mini-game for teaching &lt;strong&gt;cross-platform Ga
     &lt;!-- Wrapper for slides --&gt;
     &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
         &lt;div class=&quot;item active&quot;&gt;
-            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-1-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #1&quot; /&gt;
+            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;https://static.colestock.com/images/tank-run-screenshot-1-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #1&quot; /&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;Beat the Clock&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;item&quot;&gt;
-            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-2-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #2&quot; /&gt;
+            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;https://static.colestock.com/images/tank-run-screenshot-2-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #2&quot; /&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;Fight off Enemy Tanks&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;item&quot;&gt;
-            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/tank-run-screenshot-3-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #3&quot; /&gt;
+            &lt;img class=&quot;responsive img-thumbnail&quot; src=&quot;https://static.colestock.com/images/tank-run-screenshot-3-640x400.jpg&quot; alt=&quot;Tank Run Screenshot #3&quot; /&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;Never Give Up!&lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -299,7 +299,7 @@ I use Tank Run as a model mini-game for teaching &lt;strong&gt;cross-platform Ga
 &lt;p&gt;The article largely attributes the decline of women in computing to parents’ aversion to buying PCs for their little girls.  PCs and other such technological innovations have largely been seen as appropriate for young males.  As such, males are much more likely to get a head start in Computer Science, having acquired many more years of experience with a computer at home.&lt;/p&gt;
 &lt;/div&gt;
     &lt;div class=&quot;col-md-5 xs-mt-20 sm-mt-10 lg-mt-10 text-center&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;http://static.colestock.com/images/when-women-stopped-coding-540x540.jpg&quot;&gt;&lt;img class=&quot;img-responsive img-thumbnail&quot; src=&quot;http://static.colestock.com/images/when-women-stopped-coding-540x540.jpg&quot; alt=&quot;When Women Stopped Coding&quot; title=&quot;When Women Stopped Coding&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://static.colestock.com/images/when-women-stopped-coding-540x540.jpg&quot;&gt;&lt;img class=&quot;img-responsive img-thumbnail&quot; src=&quot;https://static.colestock.com/images/when-women-stopped-coding-540x540.jpg&quot; alt=&quot;When Women Stopped Coding&quot; title=&quot;When Women Stopped Coding&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
