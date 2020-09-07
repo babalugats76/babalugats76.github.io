@@ -28,23 +28,23 @@ excerpt: James Colestock is an educator and Information Technology professional 
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="responsive img-circle" src="http://static.colestock.com/images/colestock-wedding-500x500.jpg" alt="My wife Jennifer and I">
+                    <img class="responsive img-circle" src="https://static.colestock.com/images/colestock-wedding-500x500.jpg" alt="My wife Jennifer and I">
                     <div class="carousel-caption">My wife and I</div>
                 </div>
                 <div class="item">
-                    <img class="responsive img-circle" src="http://static.colestock.com/images/james-at-cubs-game-500x500.jpg" alt="Watching the Cubs lose!">
+                    <img class="responsive img-circle" src="https://static.colestock.com/images/james-at-cubs-game-500x500.jpg" alt="Watching the Cubs lose!">
                     <div class="carousel-caption">Watching the Cubs lose</div>
                 </div>
                 <div class="item">
-                    <img class="responsive img-circle" src="http://static.colestock.com/images/james-at-graduation-500x500.jpg" alt="Congratulating graduates">
+                    <img class="responsive img-circle" src="https://static.colestock.com/images/james-at-graduation-500x500.jpg" alt="Congratulating graduates">
                     <div class="carousel-caption">Congratulating graduates</div>
                 </div>
                 <div class="item">
-                    <img class="responsive img-circle" src="http://static.colestock.com/images/james-with-goat-trophy-500x500.jpg" alt="Safeguarding the GOAT trophy">
+                    <img class="responsive img-circle" src="https://static.colestock.com/images/james-with-goat-trophy-500x500.jpg" alt="Safeguarding the GOAT trophy">
                     <div class="carousel-caption">Safeguarding the GOAT trophy</div>
                 </div>
                 <div class="item">
-                    <img class="responsive img-circle" src="http://static.colestock.com/images/james-vs-house-500x500.jpg" alt="Man vs. House">
+                    <img class="responsive img-circle" src="https://static.colestock.com/images/james-vs-house-500x500.jpg" alt="Man vs. House">
                     <div class="carousel-caption">Man vs. House</div>
                 </div>
             </div>
