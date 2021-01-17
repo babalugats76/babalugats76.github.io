@@ -1,8 +1,7 @@
 <div id="social">
 {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" title="I am '{{site.github_username}}' on Github"><i class="fa fa-github-square"></i></a>{% endif %}
 {% if site.googleplus_username %}<a href="https://plus.google.com/{{ site.googleplus_username }}" title="I am '{{site.googleplus_username}}' on Google+"><i class="fa fa-google-plus-square"></i></a>{% endif %}
-{% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}" title="I am @{{site.twitter_username}} on Twitter"><i class="fa fa-twitter-square"></i></a>{% endif %}
-{% if site.youtube_username %}<a href="https://youtube.com/c/{{ site.youtube_username }}" title="I am '{{site.youtube_username}}' on YouTube"><i class="fa fa-youtube-square"></i></a>{% endif %}
+{% comment %}{% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}" title="I am @{{site.twitter_username}} on Twitter"><i class="fa fa-twitter-square"></i></a>{% endif %}{% endcomment %}
 <a href="{{ site.baseurl }}/feed.xml"><span class="icon icon--rss" title="Subscribe to my RSS feed"><i class="fa fa-rss-square"></i></a>
 <a href="mailto:james@colestock.com"><span class="icon icon--email" title="Send me an email"><i class="fa fa-envelope"></i></a>
 </div>
