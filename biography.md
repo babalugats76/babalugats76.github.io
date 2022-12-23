@@ -8,10 +8,11 @@ excerpt: James Colestock is an educator and Information Technology professional 
 <hr>
 <div class="row">
     <div class="col-md-8">
-        <p>James Colestock, the pride of Fort Wayne, Indiana, now lives and teaches in the Denver Metro area.</p>
-        <p>In 2012, James decided to set aside the corporate world and pursue his long-standing interest in teaching. Shortly thereafter, he completed his student teaching at Abraham Lincoln High School alongside Mr. Jackie McBroom. Since then, he has focused on developing and delivering a comprehensive CTE Information Technology program, most recently at APS Online High School (now called APS Avenues) in Aurora Public Schools.</p>
-        <p>Before becoming an educator, James was a proud Mastodon at IPFW – the joint campus of Indiana University and Purdue University in his hometown of Fort Wayne – where he studied Business and Computers, setting him up for a successful career as an Oracle Database Administrator&mdash;he continues to be involved in a variety of technology-related endeavors.</p>
-        <p>With his experience in a variety of business and technology settings, James is excited to bring the real world into the classroom and to help students connect what they are learning in their courses to their future plans and ambitions.</p>
+        <p>James Colestock, the pride of Fort Wayne, Indiana, now lives, works, and teaches in the Bend, OR area.</p>
+        <p>Before becoming an educator, James was a proud Mastodon at IPFW – the joint campus of Indiana University and Purdue University in his hometown of Fort Wayne – where he studied Business and Computers, setting him up for a successful career as an Oracle Database Administrator.</p>
+        <p>In 2012, James decided to pursue his long-standing interest in teaching. Shortly thereafter, he completed his student teaching at Abraham Lincoln High School alongside Mr. Jackie McBroom.</p>
+        <p>Afterwards, he made good on his commitment to bring the real world into the classroom through the creation and delivery of comprehensive CTE Information Technology programs in the Denver, CO metro area.</p>
+        <p>Nowadays, James pursues both of his passions&mdash;technology and education&mdash;in his roles as IT Analyst at Bend-La Pine Schools and Computer Science Instructor at Johns Hopkins Center for Talented Youth.</p>
 <p>When he’s not working with students in the classroom, James is often found playing his guitar or watching his beloved Chicago Cubs <strike>lose</strike> win!</p>
     </div>
     <div class="col-md-4 xs-mt-20 sm-mt-30 lg-mt-40">
