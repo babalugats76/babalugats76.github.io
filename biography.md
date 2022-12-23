@@ -3,13 +3,13 @@ layout: page
 title: Biography
 dropdown: about
 permalink: /bio/
-excerpt: James Colestock is an educator and Information Technology professional from Fort Wayne, IN now living in Wheat Ridge, CO
+excerpt: James Colestock Information Technology professional and educator from Fort Wayne, IN now lives in Bend, OR
 ---
 <hr>
 <div class="row">
     <div class="col-md-8">
         <p>James Colestock, the pride of Fort Wayne, Indiana, now lives, works, and teaches in the Bend, OR area.</p>
-        <p>Before becoming an educator, James was a proud Mastodon at IPFW – the joint campus of Indiana University and Purdue University in Fort Wayne – where he studied Business and Computers, setting him up for a successful career as an Oracle Database Administrator.</p>
+        <p>Before becoming an educator, James was a proud Mastodon at IPFW&mdash;the joint campus of Indiana University and Purdue University in Fort Wayne&mdash;where he studied Business and Computers, setting him up for a successful career as an Oracle Database Administrator.</p>
         <p>In 2012, James decided to pursue his long-standing interest in teaching. Shortly thereafter, he completed his student teaching at Abraham Lincoln High School alongside Mr. Jackie McBroom.</p>
         <p>Afterwards, he made good on his commitment to bring the real world into the classroom through the creation and delivery of comprehensive CTE Information Technology programs in the Denver, CO metro area.</p>
         <p>Nowadays, James pursues both of his passions&mdash;technology and education&mdash;in his roles as IT Analyst at Bend-La Pine Schools and Computer Science Instructor at Johns Hopkins Center for Talented Youth.</p>
