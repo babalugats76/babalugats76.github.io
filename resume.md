@@ -72,5 +72,6 @@ excerpt: James Colestock is a passionate educator and technologist with diverse 
       <!--<div class="panel-footer text-center"><a class="small" href="https://apps.colorado.gov/cde/licensing/Lookup/LicenseLookup.aspx" title="CDE eLicensing System">CDE eLicensing System</a></div>-->
     </div> 
   </div>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </div>
 <!-- end row -->
