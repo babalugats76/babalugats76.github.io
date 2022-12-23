@@ -24,10 +24,10 @@ excerpt: James Colestock is a passionate educator and technologist with diverse 
         </ul>
       </div>
     </div>
-    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jamescolestock" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jamescolestock?trk=profile-badge">James Colestock</a></div>
   </div>
   <!-- end left column -->
   <div class="col-md-5 xs-mt-20 sm-mt-20 md-mt-20 lg-mt-20">
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jamescolestock" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jamescolestock?trk=profile-badge">James Colestock</a></div>
     <div id="resumedoc" class="xs-mb-20 sm-mb-20 md-mb-20 lg-mb-20">
        <a href="https://static.colestock.com/James_Colestock_Resume.pdf" target="_blank" class="btn btn-sm btn-primary" title="Resume: James Colestock" download="James_Colestock_Resume.pdf">Résumé [pdf]</a>
        <!--<a href="https://static.colestock.com/Putting_IT_Together.pdf" class="btn btn-sm btn-primary" title="Brochure: Putting IT Together" download="Putting_IT_Together.pdf">Brochure [pdf]</a>-->
