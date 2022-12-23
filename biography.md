@@ -9,7 +9,7 @@ excerpt: James Colestock Information Technology professional and educator from F
 <div class="row">
     <div class="col-md-8">
         <p>James Colestock, the pride of Fort Wayne, Indiana, now lives, works, and teaches in the Bend, OR area.</p>
-        <p>Before becoming an educator, James was a proud Mastodon at IPFW&mdash;the joint campus of Indiana University and Purdue University in Fort Wayne&mdash;where he studied Business and Computers, setting him up for a successful career as an Oracle Database Administrator.</p>
+        <p>After graduating from Homestead High School, James became a proud Mastodon at IPFW&mdash;the joint campus of Indiana University and Purdue University in Fort Wayne&mdash;where he studied Business and Computers, setting him up for a successful career as an Oracle Database Administrator.</p>
         <p>In 2012, James decided to pursue his long-standing interest in teaching. Shortly thereafter, he completed his student teaching at Abraham Lincoln High School alongside Mr. Jackie McBroom.</p>
         <p>Afterwards, he made good on his commitment to bring the real world into the classroom through the creation and delivery of comprehensive CTE Information Technology programs in the Denver, CO metro area.</p>
         <p>Nowadays, James pursues both of his passions&mdash;technology and education&mdash;in his roles as IT Analyst at Bend-La Pine Schools and Computer Science Instructor at Johns Hopkins Center for Talented Youth.</p>
